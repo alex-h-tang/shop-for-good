@@ -1,0 +1,4 @@
+python-dotenv
+fastapi
+bs4
+supabase

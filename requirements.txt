@@ -3,3 +3,5 @@ fastapi
 bs4
 supabase
 selenium
+fuzzywuzzy
+openai

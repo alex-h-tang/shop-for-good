@@ -10,7 +10,6 @@ from bs4 import BeautifulSoup
 def initialize_driver():
     options = webdriver.ChromeOptions()
     driver = webdriver.Chrome(options=options)
-    driver.maximize_window()
     return driver
 
 def load_page(driver, search_term):
@@ -47,25 +46,44 @@ def parse_content(content):
     products = soup.find('div', {'data-test': 'product-grid'})
     children = products.find_all('div', recursive=False) if products else []
     print(f"Number of children: {len(children)}")
+    
+    out = []
+    
     for card in children:
         name, price, url, image_url = parse_card(card)
         if not name:
             print("No aria-label found")
+            continue
+        
+        d = {
+            "name": name,
+            "price": price,
+            "image": image_url,
+            "url": url
+        }
         print(f"Product Name: {name}")
         print(f"Product Price: {price}")
         print(f"Product URL: {url}")
         print(f"Product Image URL: {image_url}")
         print("-" * 20)
+        
+        out.append(d)
+        
+    return out
+        
+    
 
 def scrape_target(search_term="soap"):
     driver = initialize_driver()
     try:
         page_source = load_page(driver, search_term)
-        parse_content(page_source)
+        ret = parse_content(page_source)
     except Exception as e:
         print(f"An error occurred: {e}")
     finally:
         driver.quit()
+        
+    return ret
 
 if __name__ == "__main__":
-    scrape_target("soap")
+    print(scrape_target("soap"))

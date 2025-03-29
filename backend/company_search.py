@@ -7,12 +7,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-client = OpenAI(
-    api_key=os.getenv("OPENAI_API_KEY"),
-)
-
-# load company data
-companies_data = json.load(open('backend/companies.json', 'r'))
 
 def find_parent_company(company):
     response = client.responses.create(
@@ -40,10 +34,21 @@ def get_esg(company):
     response = requests.get(url, headers=headers, params=querystring)
     return response.json()
 
-# testing
-response = find_parent_company("Pantene")
-print(response)
-search_word = response.output[0].content[0].text
-result = fuzzy_search(search_word, companies_data)
-print(f"Best match for '{search_word}': {result[0]} (Score: {result[1]})")
-print(get_esg(result[0]))
+
+if __name__ == "__main__":
+    client = OpenAI(
+        api_key=os.getenv("OPENAI_API_KEY"),
+    )
+
+    # load company data
+    companies_data = json.load(open('backend/companies.json', 'r'))
+    
+    # testing
+    response = find_parent_company("Pantene")
+    print(response)
+    search_word = response.output[0].content[0].text
+    result = fuzzy_search(search_word, companies_data)
+    print(f"Best match for '{search_word}': {result[0]} (Score: {result[1]})")
+    print(get_esg(result[0]))
+    
+    

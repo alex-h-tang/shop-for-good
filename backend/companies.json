@@ -1,0 +1,6002 @@
+[
+    {
+        "companyname": "3i Group plc"
+    },
+    {
+        "companyname": "ABB Ltd"
+    },
+    {
+        "companyname": "Albemarle Corporation"
+    },
+    {
+        "companyname": "The Allstate Corporation"
+    },
+    {
+        "companyname": "Amazon.com, Inc."
+    },
+    {
+        "companyname": "Apollo Global Management, Inc."
+    },
+    {
+        "companyname": "Bank of America Corporation"
+    },
+    {
+        "companyname": "Bank of Montreal"
+    },
+    {
+        "companyname": "Truist Financial Corporation"
+    },
+    {
+        "companyname": "Charter Communications, Inc."
+    },
+    {
+        "companyname": "Cisco Systems, Inc."
+    },
+    {
+        "companyname": "CVC Capital Partners plc"
+    },
+    {
+        "companyname": "Houlihan Lokey, Inc."
+    },
+    {
+        "companyname": "Intel Corporation"
+    },
+    {
+        "companyname": "Intermediate Capital Group plc"
+    },
+    {
+        "companyname": "Intuit Inc."
+    },
+    {
+        "companyname": "KKR & Co. Inc."
+    },
+    {
+        "companyname": "Kyocera Corporation"
+    },
+    {
+        "companyname": "S&P Global Inc."
+    },
+    {
+        "companyname": "Microsoft Corporation"
+    },
+    {
+        "companyname": "National Bank of Kuwait S.A.K.P."
+    },
+    {
+        "companyname": "Oracle Corporation"
+    },
+    {
+        "companyname": "Raymond James Financial, Inc."
+    },
+    {
+        "companyname": "Roper Technologies, Inc."
+    },
+    {
+        "companyname": "Sumitomo Corporation"
+    },
+    {
+        "companyname": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Soci\u00e9t\u00e9 anonyme"
+    },
+    {
+        "companyname": "SoftBank Group Corp."
+    },
+    {
+        "companyname": "Sony Group Corporation"
+    },
+    {
+        "companyname": "Corebridge Financial, Inc."
+    },
+    {
+        "companyname": "T. Rowe Price Group, Inc."
+    },
+    {
+        "companyname": "The Carlyle Group Inc."
+    },
+    {
+        "companyname": "Thales S.A."
+    },
+    {
+        "companyname": "The Toronto-Dominion Bank"
+    },
+    {
+        "companyname": "W. P. Carey Inc."
+    },
+    {
+        "companyname": "Adobe Inc."
+    },
+    {
+        "companyname": "Advanced Drainage Systems, Inc."
+    },
+    {
+        "companyname": "Akamai Technologies, Inc."
+    },
+    {
+        "companyname": "Align Technology, Inc."
+    },
+    {
+        "companyname": "Amdocs Limited"
+    },
+    {
+        "companyname": "American Tower Corporation"
+    },
+    {
+        "companyname": "Cencora, Inc."
+    },
+    {
+        "companyname": "Amgen Inc."
+    },
+    {
+        "companyname": "Amphenol Corporation"
+    },
+    {
+        "companyname": "ANSYS, Inc."
+    },
+    {
+        "companyname": "Apple Inc."
+    },
+    {
+        "companyname": "ASUSTeK Computer Inc."
+    },
+    {
+        "companyname": "Light & Wonder, Inc."
+    },
+    {
+        "companyname": "AutoZone, Inc."
+    },
+    {
+        "companyname": "Bentley Systems, Incorporated"
+    },
+    {
+        "companyname": "BioMarin Pharmaceutical Inc."
+    },
+    {
+        "companyname": "Bristol-Myers Squibb Company"
+    },
+    {
+        "companyname": "Cadence Design Systems, Inc."
+    },
+    {
+        "companyname": "Celestica Inc."
+    },
+    {
+        "companyname": "Centene Corporation"
+    },
+    {
+        "companyname": "Check Point Software Technologies Ltd."
+    },
+    {
+        "companyname": "Chipotle Mexican Grill, Inc."
+    },
+    {
+        "companyname": "Ciena Corporation"
+    },
+    {
+        "companyname": "Flex Ltd."
+    },
+    {
+        "companyname": "Clean Harbors, Inc."
+    },
+    {
+        "companyname": "The Coca-Cola Company"
+    },
+    {
+        "companyname": "Conagra Brands, Inc."
+    },
+    {
+        "companyname": "Copart, Inc."
+    },
+    {
+        "companyname": "Crown Castle Inc."
+    },
+    {
+        "companyname": "Crown Holdings, Inc."
+    },
+    {
+        "companyname": "DICK'S Sporting Goods, Inc."
+    },
+    {
+        "companyname": "Dollar Tree, Inc."
+    },
+    {
+        "companyname": "eBay Inc."
+    },
+    {
+        "companyname": "Electronic Arts Inc."
+    },
+    {
+        "companyname": "EMCOR Group, Inc."
+    },
+    {
+        "companyname": "Equinix, Inc."
+    },
+    {
+        "companyname": "Equity Residential"
+    },
+    {
+        "companyname": "Exact Sciences Corporation"
+    },
+    {
+        "companyname": "Exelixis, Inc."
+    },
+    {
+        "companyname": "Franklin Resources, Inc."
+    },
+    {
+        "companyname": "Corpay, Inc."
+    },
+    {
+        "companyname": "Geberit AG"
+    },
+    {
+        "companyname": "Gilead Sciences, Inc."
+    },
+    {
+        "companyname": "Alphabet Inc."
+    },
+    {
+        "companyname": "Graco Inc."
+    },
+    {
+        "companyname": "Grupo Financiero Banorte, S.A.B. de C.V."
+    },
+    {
+        "companyname": "Encompass Health Corporation"
+    },
+    {
+        "companyname": "Hilton Worldwide Holdings Inc."
+    },
+    {
+        "companyname": "Host Hotels & Resorts, Inc."
+    },
+    {
+        "companyname": "Humana Inc."
+    },
+    {
+        "companyname": "Biogen Inc."
+    },
+    {
+        "companyname": "IDEX Corporation"
+    },
+    {
+        "companyname": "IDEXX Laboratories, Inc."
+    },
+    {
+        "companyname": "Illumina, Inc."
+    },
+    {
+        "companyname": "Insmed Incorporated"
+    },
+    {
+        "companyname": "Intertek Group plc"
+    },
+    {
+        "companyname": "Intuitive Surgical, Inc."
+    },
+    {
+        "companyname": "Iron Mountain Incorporated"
+    },
+    {
+        "companyname": "Smurfit Westrock Plc"
+    },
+    {
+        "companyname": "Juniper Networks, Inc."
+    },
+    {
+        "companyname": "Labcorp Holdings Inc."
+    },
+    {
+        "companyname": "Lam Research Corporation"
+    },
+    {
+        "companyname": "Lennar Corporation"
+    },
+    {
+        "companyname": "Equity LifeStyle Properties, Inc."
+    },
+    {
+        "companyname": "Marriott International, Inc."
+    },
+    {
+        "companyname": "Martin Marietta Materials, Inc."
+    },
+    {
+        "companyname": "Marvell Technology, Inc."
+    },
+    {
+        "companyname": "Masimo Corporation"
+    },
+    {
+        "companyname": "Medtronic plc"
+    },
+    {
+        "companyname": "Mettler-Toledo International Inc."
+    },
+    {
+        "companyname": "Microchip Technology Incorporated"
+    },
+    {
+        "companyname": "Morningstar, Inc."
+    },
+    {
+        "companyname": "Southwest Airlines Co."
+    },
+    {
+        "companyname": "AMETEK, Inc."
+    },
+    {
+        "companyname": "NEC Corporation"
+    },
+    {
+        "companyname": "Nestl\u00e9 S.A."
+    },
+    {
+        "companyname": "Netflix, Inc."
+    },
+    {
+        "companyname": "NetApp, Inc."
+    },
+    {
+        "companyname": "Neurocrine Biosciences, Inc."
+    },
+    {
+        "companyname": "NICE Ltd."
+    },
+    {
+        "companyname": "NVIDIA Corporation"
+    },
+    {
+        "companyname": "PTC Inc."
+    },
+    {
+        "companyname": "PepsiCo, Inc."
+    },
+    {
+        "companyname": "Ping An Insurance (Group) Company of China, Ltd."
+    },
+    {
+        "companyname": "Booking Holdings Inc."
+    },
+    {
+        "companyname": "The Procter & Gamble Company"
+    },
+    {
+        "companyname": "The Progressive Corporation"
+    },
+    {
+        "companyname": "Qiagen N.V."
+    },
+    {
+        "companyname": "QUALCOMM Incorporated"
+    },
+    {
+        "companyname": "Quanta Services, Inc."
+    },
+    {
+        "companyname": "Regeneron Pharmaceuticals, Inc."
+    },
+    {
+        "companyname": "RenaissanceRe Holdings Ltd."
+    },
+    {
+        "companyname": "Repligen Corporation"
+    },
+    {
+        "companyname": "Graphic Packaging Holding Company"
+    },
+    {
+        "companyname": "Ross Stores, Inc."
+    },
+    {
+        "companyname": "SBA Communications Corporation"
+    },
+    {
+        "companyname": "The Charles Schwab Corporation"
+    },
+    {
+        "companyname": "Pool Corporation"
+    },
+    {
+        "companyname": "Simon Property Group, Inc."
+    },
+    {
+        "companyname": "SS&C Technologies Holdings, Inc."
+    },
+    {
+        "companyname": "Starbucks Corporation"
+    },
+    {
+        "companyname": "Steel Dynamics, Inc."
+    },
+    {
+        "companyname": "STERIS plc"
+    },
+    {
+        "companyname": "Builders FirstSource, Inc."
+    },
+    {
+        "companyname": "Gen Digital Inc."
+    },
+    {
+        "companyname": "Synopsys, Inc."
+    },
+    {
+        "companyname": "Textron Inc."
+    },
+    {
+        "companyname": "The AES Corporation"
+    },
+    {
+        "companyname": "The Descartes Systems Group Inc."
+    },
+    {
+        "companyname": "DaVita Inc."
+    },
+    {
+        "companyname": "Ulta Beauty, Inc."
+    },
+    {
+        "companyname": "United Rentals, Inc."
+    },
+    {
+        "companyname": "United Therapeutics Corporation"
+    },
+    {
+        "companyname": "Universal Health Services, Inc."
+    },
+    {
+        "companyname": "VeriSign, Inc."
+    },
+    {
+        "companyname": "Vertex Pharmaceuticals Incorporated"
+    },
+    {
+        "companyname": "Vestas Wind Systems A\/S"
+    },
+    {
+        "companyname": "Westinghouse Air Brake Technologies Corporation"
+    },
+    {
+        "companyname": "Waters Corporation"
+    },
+    {
+        "companyname": "Willis Towers Watson Public Limited Company"
+    },
+    {
+        "companyname": "International Paper Company"
+    },
+    {
+        "companyname": "The Clorox Company"
+    },
+    {
+        "companyname": "F5, Inc."
+    },
+    {
+        "companyname": "Charles River Laboratories International, Inc."
+    },
+    {
+        "companyname": "Carrefour SA"
+    },
+    {
+        "companyname": "Telstra Group Limited"
+    },
+    {
+        "companyname": "Mitsui & Co., Ltd."
+    },
+    {
+        "companyname": "Samsung Electronics Co., Ltd."
+    },
+    {
+        "companyname": "American Express Company"
+    },
+    {
+        "companyname": "Grupo Financiero Inbursa, S.A.B. de C.V."
+    },
+    {
+        "companyname": "adidas AG"
+    },
+    {
+        "companyname": "Costco Wholesale Corporation"
+    },
+    {
+        "companyname": "Range Resources Corporation"
+    },
+    {
+        "companyname": "T-Mobile US, Inc."
+    },
+    {
+        "companyname": "Enel SpA"
+    },
+    {
+        "companyname": "Walgreens Boots Alliance, Inc."
+    },
+    {
+        "companyname": "CVS Health Corporation"
+    },
+    {
+        "companyname": "Sirius XM Holdings Inc."
+    },
+    {
+        "companyname": "Stryker Corporation"
+    },
+    {
+        "companyname": "Teradyne, Inc."
+    },
+    {
+        "companyname": "Jabil Inc."
+    },
+    {
+        "companyname": "Omnicom Group Inc."
+    },
+    {
+        "companyname": "Wintrust Financial Corporation"
+    },
+    {
+        "companyname": "Thermo Fisher Scientific Inc."
+    },
+    {
+        "companyname": "Northrop Grumman Corporation"
+    },
+    {
+        "companyname": "Chevron Corporation"
+    },
+    {
+        "companyname": "The Hershey Company"
+    },
+    {
+        "companyname": "Packaging Corporation of America"
+    },
+    {
+        "companyname": "Motorola Solutions, Inc."
+    },
+    {
+        "companyname": "Nordea Bank Abp"
+    },
+    {
+        "companyname": "AT&T Inc."
+    },
+    {
+        "companyname": "Comfort Systems USA, Inc."
+    },
+    {
+        "companyname": "HDFC Bank Limited"
+    },
+    {
+        "companyname": "Bayer Aktiengesellschaft"
+    },
+    {
+        "companyname": "Becton, Dickinson and Company"
+    },
+    {
+        "companyname": "UnitedHealth Group Incorporated"
+    },
+    {
+        "companyname": "Constellation Software Inc."
+    },
+    {
+        "companyname": "Infineon Technologies AG"
+    },
+    {
+        "companyname": "Ford Motor Company"
+    },
+    {
+        "companyname": "Mercedes-Benz Group AG"
+    },
+    {
+        "companyname": "D.R. Horton, Inc."
+    },
+    {
+        "companyname": "Weyerhaeuser Company"
+    },
+    {
+        "companyname": "Tenet Healthcare Corporation"
+    },
+    {
+        "companyname": "Webster Financial Corporation"
+    },
+    {
+        "companyname": "Hologic, Inc."
+    },
+    {
+        "companyname": "The Interpublic Group of Companies, Inc."
+    },
+    {
+        "companyname": "HP Inc."
+    },
+    {
+        "companyname": "Eastman Chemical Company"
+    },
+    {
+        "companyname": "Royal Bank of Canada"
+    },
+    {
+        "companyname": "Leidos Holdings, Inc."
+    },
+    {
+        "companyname": "International Business Machines Corporation"
+    },
+    {
+        "companyname": "Singapore Telecommunications Limited"
+    },
+    {
+        "companyname": "PayPal Holdings, Inc."
+    },
+    {
+        "companyname": "Hainan Airlines Holding Co., Ltd."
+    },
+    {
+        "companyname": "DexCom, Inc."
+    },
+    {
+        "companyname": "Aon plc"
+    },
+    {
+        "companyname": "Autodesk, Inc."
+    },
+    {
+        "companyname": "Sempra"
+    },
+    {
+        "companyname": "The Southern Company"
+    },
+    {
+        "companyname": "Mediobanca Banca di Credito Finanziario S.p.A."
+    },
+    {
+        "companyname": "AXA SA"
+    },
+    {
+        "companyname": "CGI Inc."
+    },
+    {
+        "companyname": "PetroChina Company Limited"
+    },
+    {
+        "companyname": "Tata Consumer Products Limited"
+    },
+    {
+        "companyname": "Salesforce, Inc."
+    },
+    {
+        "companyname": "FedEx Corporation"
+    },
+    {
+        "companyname": "Automatic Data Processing, Inc."
+    },
+    {
+        "companyname": "Trimble Inc."
+    },
+    {
+        "companyname": "SAP SE"
+    },
+    {
+        "companyname": "Bureau Veritas SA"
+    },
+    {
+        "companyname": "Fiserv, Inc."
+    },
+    {
+        "companyname": "Danone S.A."
+    },
+    {
+        "companyname": "Gartner, Inc."
+    },
+    {
+        "companyname": "Marico Limited"
+    },
+    {
+        "companyname": "Pearson plc"
+    },
+    {
+        "companyname": "Ipsen S.A."
+    },
+    {
+        "companyname": "Bharti Airtel Limited"
+    },
+    {
+        "companyname": "American Electric Power Company, Inc."
+    },
+    {
+        "companyname": "The Bank of New York Mellon Corporation"
+    },
+    {
+        "companyname": "STMicroelectronics N.V."
+    },
+    {
+        "companyname": "McDonald's Corporation"
+    },
+    {
+        "companyname": "Johnson & Johnson"
+    },
+    {
+        "companyname": "PG&E Corporation"
+    },
+    {
+        "companyname": "Texas Instruments Incorporated"
+    },
+    {
+        "companyname": "Sun Pharmaceutical Industries Limited"
+    },
+    {
+        "companyname": "AB Industriv\u00e4rden (publ)"
+    },
+    {
+        "companyname": "Hitachi, Ltd."
+    },
+    {
+        "companyname": "Indutrade AB (publ)"
+    },
+    {
+        "companyname": "Nordson Corporation"
+    },
+    {
+        "companyname": "Leonardo DRS, Inc."
+    },
+    {
+        "companyname": "Agilent Technologies, Inc."
+    },
+    {
+        "companyname": "RTX Corporation"
+    },
+    {
+        "companyname": "Otis Worldwide Corporation"
+    },
+    {
+        "companyname": "Elevance Health, Inc."
+    },
+    {
+        "companyname": "Booz Allen Hamilton Holding Corporation"
+    },
+    {
+        "companyname": "Pfizer Inc."
+    },
+    {
+        "companyname": "Unum Group"
+    },
+    {
+        "companyname": "American Airlines Group Inc."
+    },
+    {
+        "companyname": "Advanced Micro Devices, Inc."
+    },
+    {
+        "companyname": "BCE Inc."
+    },
+    {
+        "companyname": "Ball Corporation"
+    },
+    {
+        "companyname": "MasTec, Inc."
+    },
+    {
+        "companyname": "Cardinal Health, Inc."
+    },
+    {
+        "companyname": "The Cigna Group"
+    },
+    {
+        "companyname": "Comcast Corporation"
+    },
+    {
+        "companyname": "Corning Incorporated"
+    },
+    {
+        "companyname": "Crane Company"
+    },
+    {
+        "companyname": "Target Corporation"
+    },
+    {
+        "companyname": "Donaldson Company, Inc."
+    },
+    {
+        "companyname": "Dover Corporation"
+    },
+    {
+        "companyname": "Eaton Corporation plc"
+    },
+    {
+        "companyname": "Equifax Inc."
+    },
+    {
+        "companyname": "General Electric Company"
+    },
+    {
+        "companyname": "Halliburton Company"
+    },
+    {
+        "companyname": "L3Harris Technologies, Inc."
+    },
+    {
+        "companyname": "Lowe's Companies, Inc."
+    },
+    {
+        "companyname": "McCormick & Company, Incorporated"
+    },
+    {
+        "companyname": "Masco Corporation"
+    },
+    {
+        "companyname": "NVR, Inc."
+    },
+    {
+        "companyname": "Nucor Corporation"
+    },
+    {
+        "companyname": "PPL Corporation"
+    },
+    {
+        "companyname": "MetLife, Inc."
+    },
+    {
+        "companyname": "Koninklijke Philips N.V."
+    },
+    {
+        "companyname": "State Street Corporation"
+    },
+    {
+        "companyname": "Sysco Corporation"
+    },
+    {
+        "companyname": "Bio-Techne Corporation"
+    },
+    {
+        "companyname": "Teck Resources Limited"
+    },
+    {
+        "companyname": "The Toro Company"
+    },
+    {
+        "companyname": "Tyson Foods, Inc."
+    },
+    {
+        "companyname": "Waste Management, Inc."
+    },
+    {
+        "companyname": "V.F. Corporation"
+    },
+    {
+        "companyname": "The Walt Disney Company"
+    },
+    {
+        "companyname": "Canon Inc."
+    },
+    {
+        "companyname": "LVMH Mo\u00ebt Hennessy - Louis Vuitton, Soci\u00e9t\u00e9 Europ\u00e9enne"
+    },
+    {
+        "companyname": "Banco Bilbao Vizcaya Argentaria, S.A."
+    },
+    {
+        "companyname": "Principal Financial Group, Inc."
+    },
+    {
+        "companyname": "Chubb Limited"
+    },
+    {
+        "companyname": "Nokia Oyj"
+    },
+    {
+        "companyname": "The Est\u00e9e Lauder Companies Inc."
+    },
+    {
+        "companyname": "United Parcel Service, Inc."
+    },
+    {
+        "companyname": "Abbott Laboratories"
+    },
+    {
+        "companyname": "Aegon Ltd."
+    },
+    {
+        "companyname": "Agnico Eagle Mines Limited"
+    },
+    {
+        "companyname": "AB SKF (publ)"
+    },
+    {
+        "companyname": "Air Products and Chemicals, Inc."
+    },
+    {
+        "companyname": "Alaska Air Group, Inc."
+    },
+    {
+        "companyname": "Hess Corporation"
+    },
+    {
+        "companyname": "Barrick Gold Corporation"
+    },
+    {
+        "companyname": "Aflac Incorporated"
+    },
+    {
+        "companyname": "American International Group, Inc."
+    },
+    {
+        "companyname": "American Water Works Company, Inc."
+    },
+    {
+        "companyname": "Applied Materials, Inc."
+    },
+    {
+        "companyname": "Analog Devices, Inc."
+    },
+    {
+        "companyname": "Archer-Daniels-Midland Company"
+    },
+    {
+        "companyname": "Arthur J. Gallagher & Co."
+    },
+    {
+        "companyname": "Atmos Energy Corporation"
+    },
+    {
+        "companyname": "Avery Dennison Corporation"
+    },
+    {
+        "companyname": "W. R. Berkley Corporation"
+    },
+    {
+        "companyname": "Baxter International Inc."
+    },
+    {
+        "companyname": "Applied Industrial Technologies, Inc."
+    },
+    {
+        "companyname": "Berkshire Hathaway Inc."
+    },
+    {
+        "companyname": "Best Buy Co., Inc."
+    },
+    {
+        "companyname": "BHP Group Limited"
+    },
+    {
+        "companyname": "Brown-Forman Corporation"
+    },
+    {
+        "companyname": "CRH plc"
+    },
+    {
+        "companyname": "CMS Energy Corporation"
+    },
+    {
+        "companyname": "CNA Financial Corporation"
+    },
+    {
+        "companyname": "CSX Corporation"
+    },
+    {
+        "companyname": "Coterra Energy Inc."
+    },
+    {
+        "companyname": "The Campbell's Company"
+    },
+    {
+        "companyname": "Constellation Brands, Inc."
+    },
+    {
+        "companyname": "Casey's General Stores, Inc."
+    },
+    {
+        "companyname": "Carlisle Companies Incorporated"
+    },
+    {
+        "companyname": "Carnival Corporation & plc"
+    },
+    {
+        "companyname": "Carpenter Technology Corporation"
+    },
+    {
+        "companyname": "Caterpillar Inc."
+    },
+    {
+        "companyname": "Chemed Corporation"
+    },
+    {
+        "companyname": "Churchill Downs Incorporated"
+    },
+    {
+        "companyname": "Cincinnati Financial Corporation"
+    },
+    {
+        "companyname": "Cintas Corporation"
+    },
+    {
+        "companyname": "Church & Dwight Co., Inc."
+    },
+    {
+        "companyname": "Frontier Communications Parent, Inc."
+    },
+    {
+        "companyname": "HCA Healthcare, Inc."
+    },
+    {
+        "companyname": "Commerce Bancshares, Inc."
+    },
+    {
+        "companyname": "Coles Group Limited"
+    },
+    {
+        "companyname": "Colgate-Palmolive Company"
+    },
+    {
+        "companyname": "Consolidated Edison, Inc."
+    },
+    {
+        "companyname": "The Cooper Companies, Inc."
+    },
+    {
+        "companyname": "Molson Coors Beverage Company"
+    },
+    {
+        "companyname": "Zimmer Biomet Holdings, Inc."
+    },
+    {
+        "companyname": "Cullen\/Frost Bankers, Inc."
+    },
+    {
+        "companyname": "Cummins Inc."
+    },
+    {
+        "companyname": "Curtiss-Wright Corporation"
+    },
+    {
+        "companyname": "Danaher Corporation"
+    },
+    {
+        "companyname": "Dell Technologies Inc."
+    },
+    {
+        "companyname": "Deere & Company"
+    },
+    {
+        "companyname": "Delta Air Lines, Inc."
+    },
+    {
+        "companyname": "Devon Energy Corporation"
+    },
+    {
+        "companyname": "DTE Energy Company"
+    },
+    {
+        "companyname": "Dollar General Corporation"
+    },
+    {
+        "companyname": "Dominion Energy, Inc."
+    },
+    {
+        "companyname": "Duke Energy Corporation"
+    },
+    {
+        "companyname": "Revvity, Inc."
+    },
+    {
+        "companyname": "EastGroup Properties, Inc."
+    },
+    {
+        "companyname": "Ecolab Inc."
+    },
+    {
+        "companyname": "Emerson Electric Co."
+    },
+    {
+        "companyname": "EOG Resources, Inc."
+    },
+    {
+        "companyname": "Telefonaktiebolaget LM Ericsson (publ)"
+    },
+    {
+        "companyname": "Entergy Corporation"
+    },
+    {
+        "companyname": "EQT Corporation"
+    },
+    {
+        "companyname": "Expeditors International of Washington, Inc."
+    },
+    {
+        "companyname": "Fair Isaac Corporation"
+    },
+    {
+        "companyname": "NextEra Energy, Inc."
+    },
+    {
+        "companyname": "Fastenal Company"
+    },
+    {
+        "companyname": "Fifth Third Bancorp"
+    },
+    {
+        "companyname": "Federal Realty Investment Trust"
+    },
+    {
+        "companyname": "Regions Financial Corporation"
+    },
+    {
+        "companyname": "M&T Bank Corporation"
+    },
+    {
+        "companyname": "First Horizon Corporation"
+    },
+    {
+        "companyname": "Freeport-McMoRan Inc."
+    },
+    {
+        "companyname": "The Gap, Inc."
+    },
+    {
+        "companyname": "General Dynamics Corporation"
+    },
+    {
+        "companyname": "General Mills, Inc."
+    },
+    {
+        "companyname": "Genuine Parts Company"
+    },
+    {
+        "companyname": "GSK plc"
+    },
+    {
+        "companyname": "W.W. Grainger, Inc."
+    },
+    {
+        "companyname": "Jack Henry & Associates, Inc."
+    },
+    {
+        "companyname": "Hasbro, Inc."
+    },
+    {
+        "companyname": "Welltower Inc."
+    },
+    {
+        "companyname": "Healthpeak Properties, Inc."
+    },
+    {
+        "companyname": "HEICO Corporation"
+    },
+    {
+        "companyname": "The Kraft Heinz Company"
+    },
+    {
+        "companyname": "J.B. Hunt Transport Services, Inc."
+    },
+    {
+        "companyname": "Huntington Bancshares Incorporated"
+    },
+    {
+        "companyname": "The Home Depot, Inc."
+    },
+    {
+        "companyname": "Honda Motor Co., Ltd."
+    },
+    {
+        "companyname": "Hormel Foods Corporation"
+    },
+    {
+        "companyname": "CenterPoint Energy, Inc."
+    },
+    {
+        "companyname": "Hubbell Incorporated"
+    },
+    {
+        "companyname": "ITT Inc."
+    },
+    {
+        "companyname": "Enbridge Inc."
+    },
+    {
+        "companyname": "Illinois Tool Works Inc."
+    },
+    {
+        "companyname": "Imperial Oil Limited"
+    },
+    {
+        "companyname": "Trane Technologies plc"
+    },
+    {
+        "companyname": "International Flavors & Fragrances Inc."
+    },
+    {
+        "companyname": "Jacobs Solutions Inc."
+    },
+    {
+        "companyname": "KLA Corporation"
+    },
+    {
+        "companyname": "Johnson Controls International plc"
+    },
+    {
+        "companyname": "Evergy, Inc."
+    },
+    {
+        "companyname": "Kellanova"
+    },
+    {
+        "companyname": "Kimberly-Clark Corporation"
+    },
+    {
+        "companyname": "Lattice Semiconductor Corporation"
+    },
+    {
+        "companyname": "The Kroger Co."
+    },
+    {
+        "companyname": "Kubota Corporation"
+    },
+    {
+        "companyname": "Jefferies Financial Group Inc."
+    },
+    {
+        "companyname": "Eli Lilly and Company"
+    },
+    {
+        "companyname": "Lockheed Martin Corporation"
+    },
+    {
+        "companyname": "Magna International Inc."
+    },
+    {
+        "companyname": "Loews Corporation"
+    },
+    {
+        "companyname": "Makita Corporation"
+    },
+    {
+        "companyname": "Markel Group Inc."
+    },
+    {
+        "companyname": "MGM Resorts International"
+    },
+    {
+        "companyname": "McKesson Corporation"
+    },
+    {
+        "companyname": "Merck & Co., Inc."
+    },
+    {
+        "companyname": "Micron Technology, Inc."
+    },
+    {
+        "companyname": "The Middleby Corporation"
+    },
+    {
+        "companyname": "3M Company"
+    },
+    {
+        "companyname": "Viatris Inc."
+    },
+    {
+        "companyname": "Nissan Motor Co., Ltd."
+    },
+    {
+        "companyname": "Newmont Corporation"
+    },
+    {
+        "companyname": "Northern Trust Corporation"
+    },
+    {
+        "companyname": "NIKE, Inc."
+    },
+    {
+        "companyname": "NiSource Inc."
+    },
+    {
+        "companyname": "Norfolk Southern Corporation"
+    },
+    {
+        "companyname": "Norsk Hydro ASA"
+    },
+    {
+        "companyname": "Eversource Energy"
+    },
+    {
+        "companyname": "Wells Fargo & Company"
+    },
+    {
+        "companyname": "Occidental Petroleum Corporation"
+    },
+    {
+        "companyname": "FirstEnergy Corp."
+    },
+    {
+        "companyname": "OGE Energy Corp."
+    },
+    {
+        "companyname": "Old Republic International Corporation"
+    },
+    {
+        "companyname": "ONEOK, Inc."
+    },
+    {
+        "companyname": "Owens Corning"
+    },
+    {
+        "companyname": "PulteGroup, Inc."
+    },
+    {
+        "companyname": "The PNC Financial Services Group, Inc."
+    },
+    {
+        "companyname": "PPG Industries, Inc."
+    },
+    {
+        "companyname": "PACCAR Inc"
+    },
+    {
+        "companyname": "Parker-Hannifin Corporation"
+    },
+    {
+        "companyname": "Paychex, Inc."
+    },
+    {
+        "companyname": "American Financial Group, Inc."
+    },
+    {
+        "companyname": "Pentair plc"
+    },
+    {
+        "companyname": "Exelon Corporation"
+    },
+    {
+        "companyname": "Essential Utilities, Inc."
+    },
+    {
+        "companyname": "Altria Group, Inc."
+    },
+    {
+        "companyname": "ConocoPhillips"
+    },
+    {
+        "companyname": "Pilgrim's Pride Corporation"
+    },
+    {
+        "companyname": "Pinnacle West Capital Corporation"
+    },
+    {
+        "companyname": "Kinross Gold Corporation"
+    },
+    {
+        "companyname": "Brown & Brown, Inc."
+    },
+    {
+        "companyname": "Nutrien Ltd."
+    },
+    {
+        "companyname": "Public Service Enterprise Group Incorporated"
+    },
+    {
+        "companyname": "RPM International Inc."
+    },
+    {
+        "companyname": "Rio Tinto Group"
+    },
+    {
+        "companyname": "Regal Rexnord Corporation"
+    },
+    {
+        "companyname": "Rockwell Automation, Inc."
+    },
+    {
+        "companyname": "Rollins, Inc."
+    },
+    {
+        "companyname": "Royal Gold, Inc."
+    },
+    {
+        "companyname": "SEI Investments Company"
+    },
+    {
+        "companyname": "Edison International"
+    },
+    {
+        "companyname": "Schlumberger Limited"
+    },
+    {
+        "companyname": "Service Corporation International"
+    },
+    {
+        "companyname": "The Sherwin-Williams Company"
+    },
+    {
+        "companyname": "The J. M. Smucker Company"
+    },
+    {
+        "companyname": "Snap-on Incorporated"
+    },
+    {
+        "companyname": "Smithfield Foods, Inc."
+    },
+    {
+        "companyname": "Stanley Black & Decker, Inc."
+    },
+    {
+        "companyname": "Stifel Financial Corp."
+    },
+    {
+        "companyname": "U.S. Bancorp"
+    },
+    {
+        "companyname": "Public Storage"
+    },
+    {
+        "companyname": "The TJX Companies, Inc."
+    },
+    {
+        "companyname": "Texas Pacific Land Corporation"
+    },
+    {
+        "companyname": "Teva Pharmaceutical Industries Limited"
+    },
+    {
+        "companyname": "Toll Brothers, Inc."
+    },
+    {
+        "companyname": "Globe Life Inc."
+    },
+    {
+        "companyname": "TC Energy Corporation"
+    },
+    {
+        "companyname": "Coherent Corp."
+    },
+    {
+        "companyname": "Tyler Technologies, Inc."
+    },
+    {
+        "companyname": "United Airlines Holdings, Inc."
+    },
+    {
+        "companyname": "Union Pacific Corporation"
+    },
+    {
+        "companyname": "UDR, Inc."
+    },
+    {
+        "companyname": "Valero Energy Corporation"
+    },
+    {
+        "companyname": "AB Volvo (publ)"
+    },
+    {
+        "companyname": "WPP plc"
+    },
+    {
+        "companyname": "Vornado Realty Trust"
+    },
+    {
+        "companyname": "Vulcan Materials Company"
+    },
+    {
+        "companyname": "Alliant Energy Corporation"
+    },
+    {
+        "companyname": "Walmart Inc."
+    },
+    {
+        "companyname": "Watsco, Inc."
+    },
+    {
+        "companyname": "West Pharmaceutical Services, Inc."
+    },
+    {
+        "companyname": "Western Digital Corporation"
+    },
+    {
+        "companyname": "Williams-Sonoma, Inc."
+    },
+    {
+        "companyname": "Woodward, Inc."
+    },
+    {
+        "companyname": "United States Steel Corporation"
+    },
+    {
+        "companyname": "WEC Energy Group, Inc."
+    },
+    {
+        "companyname": "TDK Corporation"
+    },
+    {
+        "companyname": "Mueller Industries, Inc."
+    },
+    {
+        "companyname": "Boston Scientific Corporation"
+    },
+    {
+        "companyname": "Linde plc"
+    },
+    {
+        "companyname": "Comerica Incorporated"
+    },
+    {
+        "companyname": "Old Dominion Freight Line, Inc."
+    },
+    {
+        "companyname": "Toyota Motor Corporation"
+    },
+    {
+        "companyname": "Kimco Realty Corporation"
+    },
+    {
+        "companyname": "Panasonic Holdings Corporation"
+    },
+    {
+        "companyname": "InterContinental Hotels Group PLC"
+    },
+    {
+        "companyname": "National Australia Bank Limited"
+    },
+    {
+        "companyname": "Chart Industries, Inc."
+    },
+    {
+        "companyname": "ASM International NV"
+    },
+    {
+        "companyname": "Tokio Marine Holdings, Inc."
+    },
+    {
+        "companyname": "Santos Limited"
+    },
+    {
+        "companyname": "Novo Nordisk A\/S"
+    },
+    {
+        "companyname": "Repsol, S.A."
+    },
+    {
+        "companyname": "Expand Energy Corporation"
+    },
+    {
+        "companyname": "Barclays PLC"
+    },
+    {
+        "companyname": "Banco Santander, S.A."
+    },
+    {
+        "companyname": "O'Reilly Automotive, Inc."
+    },
+    {
+        "companyname": "Omega Healthcare Investors, Inc."
+    },
+    {
+        "companyname": "Vodafone Group Public Limited Company"
+    },
+    {
+        "companyname": "Endesa, S.A."
+    },
+    {
+        "companyname": "AIB Group plc"
+    },
+    {
+        "companyname": "Reinsurance Group of America, Incorporated"
+    },
+    {
+        "companyname": "Royal Caribbean Cruises Ltd."
+    },
+    {
+        "companyname": "Akzo Nobel N.V."
+    },
+    {
+        "companyname": "AptarGroup, Inc."
+    },
+    {
+        "companyname": "TotalEnergies SE"
+    },
+    {
+        "companyname": "British American Tobacco p.l.c."
+    },
+    {
+        "companyname": "Deckers Outdoor Corporation"
+    },
+    {
+        "companyname": "Coca-Cola FEMSA, S.A.B. de C.V."
+    },
+    {
+        "companyname": "AvalonBay Communities, Inc."
+    },
+    {
+        "companyname": "Camden Property Trust"
+    },
+    {
+        "companyname": "KeyCorp"
+    },
+    {
+        "companyname": "Tractor Supply Company"
+    },
+    {
+        "companyname": "Prologis, Inc."
+    },
+    {
+        "companyname": "Reliance, Inc."
+    },
+    {
+        "companyname": "Sun Communities, Inc."
+    },
+    {
+        "companyname": "Mid-America Apartment Communities, Inc."
+    },
+    {
+        "companyname": "Essex Property Trust, Inc."
+    },
+    {
+        "companyname": "CDW Corporation"
+    },
+    {
+        "companyname": "Incyte Corporation"
+    },
+    {
+        "companyname": "Ingersoll Rand Inc."
+    },
+    {
+        "companyname": "Keurig Dr Pepper Inc."
+    },
+    {
+        "companyname": "Knight-Swift Transportation Holdings Inc."
+    },
+    {
+        "companyname": "Darden Restaurants, Inc."
+    },
+    {
+        "companyname": "Capital One Financial Corporation"
+    },
+    {
+        "companyname": "AstraZeneca PLC"
+    },
+    {
+        "companyname": "Lincoln Electric Holdings, Inc."
+    },
+    {
+        "companyname": "Realty Income Corporation"
+    },
+    {
+        "companyname": "Henry Schein, Inc."
+    },
+    {
+        "companyname": "ResMed Inc."
+    },
+    {
+        "companyname": "Everest Group, Ltd."
+    },
+    {
+        "companyname": "The Hartford Insurance Group, Inc."
+    },
+    {
+        "companyname": "Monster Beverage Corporation"
+    },
+    {
+        "companyname": "First Citizens BancShares, Inc."
+    },
+    {
+        "companyname": "U-Haul Holding Company"
+    },
+    {
+        "companyname": "Arch Capital Group Ltd."
+    },
+    {
+        "companyname": "FactSet Research Systems Inc."
+    },
+    {
+        "companyname": "ATI Inc."
+    },
+    {
+        "companyname": "Southern Copper Corporation"
+    },
+    {
+        "companyname": "Canadian National Railway Company"
+    },
+    {
+        "companyname": "Lamar Advertising Company"
+    },
+    {
+        "companyname": "Suncor Energy Inc."
+    },
+    {
+        "companyname": "Dassault Syst\u00e8mes SE"
+    },
+    {
+        "companyname": "Lithia Motors, Inc."
+    },
+    {
+        "companyname": "CarMax, Inc."
+    },
+    {
+        "companyname": "Telef\u00f3nica, S.A."
+    },
+    {
+        "companyname": "Eni S.p.A."
+    },
+    {
+        "companyname": "SouthState Corporation"
+    },
+    {
+        "companyname": "Quest Diagnostics Incorporated"
+    },
+    {
+        "companyname": "Ralph Lauren Corporation"
+    },
+    {
+        "companyname": "Sarepta Therapeutics, Inc."
+    },
+    {
+        "companyname": "Jones Lang LaSalle Incorporated"
+    },
+    {
+        "companyname": "ArcelorMittal S.A."
+    },
+    {
+        "companyname": "Brookfield Corporation"
+    },
+    {
+        "companyname": "China Southern Airlines Company Limited"
+    },
+    {
+        "companyname": "Alexandria Real Estate Equities, Inc."
+    },
+    {
+        "companyname": "Penske Automotive Group, Inc."
+    },
+    {
+        "companyname": "Yum! Brands, Inc."
+    },
+    {
+        "companyname": "Orange S.A."
+    },
+    {
+        "companyname": "China Mobile Limited"
+    },
+    {
+        "companyname": "BXP, Inc."
+    },
+    {
+        "companyname": "C.H. Robinson Worldwide, Inc."
+    },
+    {
+        "companyname": "The Boeing Company"
+    },
+    {
+        "companyname": "LATAM Airlines Group S.A."
+    },
+    {
+        "companyname": "Take-Two Interactive Software, Inc."
+    },
+    {
+        "companyname": "Ingredion Incorporated"
+    },
+    {
+        "companyname": "Ameren Corporation"
+    },
+    {
+        "companyname": "Koninklijke Ahold Delhaize N.V."
+    },
+    {
+        "companyname": "Cheniere Energy, Inc."
+    },
+    {
+        "companyname": "Diageo plc"
+    },
+    {
+        "companyname": "Volkswagen AG"
+    },
+    {
+        "companyname": "Rogers Communications Inc."
+    },
+    {
+        "companyname": "Cameco Corporation"
+    },
+    {
+        "companyname": "Deutsche Telekom AG"
+    },
+    {
+        "companyname": "Taiwan Semiconductor Manufacturing Company Limited"
+    },
+    {
+        "companyname": "Enel Am\u00e9ricas S.A."
+    },
+    {
+        "companyname": "China Eastern Airlines Corporation Limited"
+    },
+    {
+        "companyname": "RELX PLC"
+    },
+    {
+        "companyname": "POSCO Holdings Inc."
+    },
+    {
+        "companyname": "RB Global, Inc."
+    },
+    {
+        "companyname": "YPF Sociedad An\u00f3nima"
+    },
+    {
+        "companyname": "Novartis AG"
+    },
+    {
+        "companyname": "HSBC Holdings plc"
+    },
+    {
+        "companyname": "BASF SE"
+    },
+    {
+        "companyname": "Annaly Capital Management, Inc."
+    },
+    {
+        "companyname": "Manhattan Associates, Inc."
+    },
+    {
+        "companyname": "ING Groep N.V."
+    },
+    {
+        "companyname": "Fresenius Medical Care AG"
+    },
+    {
+        "companyname": "Waste Connections, Inc."
+    },
+    {
+        "companyname": "Live Nation Entertainment, Inc."
+    },
+    {
+        "companyname": "MicroStrategy Incorporated"
+    },
+    {
+        "companyname": "ANZ Group Holdings Limited"
+    },
+    {
+        "companyname": "E.ON SE"
+    },
+    {
+        "companyname": "Cognizant Technology Solutions Corporation"
+    },
+    {
+        "companyname": "Republic Services, Inc."
+    },
+    {
+        "companyname": "Canadian Imperial Bank of Commerce"
+    },
+    {
+        "companyname": "CoStar Group, Inc."
+    },
+    {
+        "companyname": "Yankuang Energy Group Company Limited"
+    },
+    {
+        "companyname": "Alstom SA"
+    },
+    {
+        "companyname": "Gildan Activewear Inc."
+    },
+    {
+        "companyname": "Erie Indemnity Company"
+    },
+    {
+        "companyname": "Bank of Ireland Group plc"
+    },
+    {
+        "companyname": "Pan American Silver Corp."
+    },
+    {
+        "companyname": "Logitech International S.A."
+    },
+    {
+        "companyname": "ASML Holding N.V."
+    },
+    {
+        "companyname": "The Williams Companies, Inc."
+    },
+    {
+        "companyname": "Citigroup Inc."
+    },
+    {
+        "companyname": "Swisscom AG"
+    },
+    {
+        "companyname": "AngloGold Ashanti plc"
+    },
+    {
+        "companyname": "Banco Comercial Portugu\u00eas, S.A."
+    },
+    {
+        "companyname": "The Travelers Companies, Inc."
+    },
+    {
+        "companyname": "Westpac Banking Corporation"
+    },
+    {
+        "companyname": "Sociedad Qu\u00edmica y Minera de Chile S.A."
+    },
+    {
+        "companyname": "BE Semiconductor Industries N.V."
+    },
+    {
+        "companyname": "Zebra Technologies Corporation"
+    },
+    {
+        "companyname": "Plains All American Pipeline, L.P."
+    },
+    {
+        "companyname": "Siemens Aktiengesellschaft"
+    },
+    {
+        "companyname": "Fujitsu Limited"
+    },
+    {
+        "companyname": "BP p.l.c."
+    },
+    {
+        "companyname": "Fomento Econ\u00f3mico Mexicano, S.A.B. de C.V."
+    },
+    {
+        "companyname": "Banco Santander-Chile"
+    },
+    {
+        "companyname": "East West Bancorp, Inc."
+    },
+    {
+        "companyname": "PJSC Tatneft"
+    },
+    {
+        "companyname": "Credicorp Ltd."
+    },
+    {
+        "companyname": "Imperial Brands PLC"
+    },
+    {
+        "companyname": "ICON Public Limited Company"
+    },
+    {
+        "companyname": "Infosys Limited"
+    },
+    {
+        "companyname": "ORIX Corporation"
+    },
+    {
+        "companyname": "Nippon Telegraph and Telephone Corporation"
+    },
+    {
+        "companyname": "Ventas, Inc."
+    },
+    {
+        "companyname": "The Goldman Sachs Group, Inc."
+    },
+    {
+        "companyname": "WESCO International, Inc."
+    },
+    {
+        "companyname": "Skechers U.S.A., Inc."
+    },
+    {
+        "companyname": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk"
+    },
+    {
+        "companyname": "Lennox International Inc."
+    },
+    {
+        "companyname": "Amcor plc"
+    },
+    {
+        "companyname": "UPM-Kymmene Oyj"
+    },
+    {
+        "companyname": "Telef\u00f4nica Brasil S.A."
+    },
+    {
+        "companyname": "BlackRock, Inc."
+    },
+    {
+        "companyname": "Manulife Financial Corporation"
+    },
+    {
+        "companyname": "CEMEX, S.A.B. de C.V."
+    },
+    {
+        "companyname": "National Grid plc"
+    },
+    {
+        "companyname": "Trend Micro Incorporated"
+    },
+    {
+        "companyname": "Exxon Mobil Corporation"
+    },
+    {
+        "companyname": "Teledyne Technologies Incorporated"
+    },
+    {
+        "companyname": "SoftBank Corp."
+    },
+    {
+        "companyname": "National Bank of Greece S.A."
+    },
+    {
+        "companyname": "RWE Aktiengesellschaft"
+    },
+    {
+        "companyname": "Anglo American plc"
+    },
+    {
+        "companyname": "Kawasaki Heavy Industries, Ltd."
+    },
+    {
+        "companyname": "Petr\u00f3leo Brasileiro S.A. - Petrobras"
+    },
+    {
+        "companyname": "Advanced Info Service Public Company Limited"
+    },
+    {
+        "companyname": "BANDAI NAMCO Holdings Inc."
+    },
+    {
+        "companyname": "Deutsche Lufthansa AG"
+    },
+    {
+        "companyname": "Holcim AG"
+    },
+    {
+        "companyname": "Bunzl plc"
+    },
+    {
+        "companyname": "Heineken N.V."
+    },
+    {
+        "companyname": "Hongkong Land Holdings Limited"
+    },
+    {
+        "companyname": "Continental Aktiengesellschaft"
+    },
+    {
+        "companyname": "DSM-Firmenich AG"
+    },
+    {
+        "companyname": "Kirin Holdings Company, Limited"
+    },
+    {
+        "companyname": "Deutsche Bank Aktiengesellschaft"
+    },
+    {
+        "companyname": "EDP, S.A."
+    },
+    {
+        "companyname": "Commerzbank AG"
+    },
+    {
+        "companyname": "Koninklijke KPN N.V."
+    },
+    {
+        "companyname": "Swedbank AB (publ)"
+    },
+    {
+        "companyname": "Rentokil Initial plc"
+    },
+    {
+        "companyname": "OMV Aktiengesellschaft"
+    },
+    {
+        "companyname": "Sun Hung Kai Properties Limited"
+    },
+    {
+        "companyname": "ICICI Bank Limited"
+    },
+    {
+        "companyname": "Edwards Lifesciences Corporation"
+    },
+    {
+        "companyname": "CK Hutchison Holdings Limited"
+    },
+    {
+        "companyname": "ON Semiconductor Corporation"
+    },
+    {
+        "companyname": "FUJIFILM Holdings Corporation"
+    },
+    {
+        "companyname": "Sun Life Financial Inc."
+    },
+    {
+        "companyname": "Tesco PLC"
+    },
+    {
+        "companyname": "Ryanair Holdings plc"
+    },
+    {
+        "companyname": "NRG Energy, Inc."
+    },
+    {
+        "companyname": "Tele2 AB (publ)"
+    },
+    {
+        "companyname": "United Overseas Bank Limited"
+    },
+    {
+        "companyname": "CLP Holdings Limited"
+    },
+    {
+        "companyname": "China Unicom (Hong Kong) Limited"
+    },
+    {
+        "companyname": "Verizon Communications Inc."
+    },
+    {
+        "companyname": "Entegris, Inc."
+    },
+    {
+        "companyname": "NetEase, Inc."
+    },
+    {
+        "companyname": "UBS Group AG"
+    },
+    {
+        "companyname": "Atlas Copco AB (publ)"
+    },
+    {
+        "companyname": "Cochlear Limited"
+    },
+    {
+        "companyname": "TD SYNNEX Corporation"
+    },
+    {
+        "companyname": "Alfa Laval AB (publ)"
+    },
+    {
+        "companyname": "Svenska Cellulosa Aktiebolaget SCA (publ)"
+    },
+    {
+        "companyname": "Renault SA"
+    },
+    {
+        "companyname": "Wolters Kluwer N.V."
+    },
+    {
+        "companyname": "Baidu, Inc."
+    },
+    {
+        "companyname": "EssilorLuxottica Soci\u00e9t\u00e9 anonyme"
+    },
+    {
+        "companyname": "Morgan Stanley"
+    },
+    {
+        "companyname": "Marsh & McLennan Companies, Inc."
+    },
+    {
+        "companyname": "Thomson Reuters Corporation"
+    },
+    {
+        "companyname": "Iberdrola, S.A."
+    },
+    {
+        "companyname": "Bankinter, S.A."
+    },
+    {
+        "companyname": "Prysmian S.p.A."
+    },
+    {
+        "companyname": "Unilever PLC"
+    },
+    {
+        "companyname": "Mitsubishi Corporation"
+    },
+    {
+        "companyname": "Evercore Inc."
+    },
+    {
+        "companyname": "Gold Fields Limited"
+    },
+    {
+        "companyname": "Tapestry, Inc."
+    },
+    {
+        "companyname": "Coca-Cola Consolidated, Inc."
+    },
+    {
+        "companyname": "Prudential plc"
+    },
+    {
+        "companyname": "Xcel Energy Inc."
+    },
+    {
+        "companyname": "Canadian Natural Resources Limited"
+    },
+    {
+        "companyname": "Pinnacle Financial Partners, Inc."
+    },
+    {
+        "companyname": "United Microelectronics Corporation"
+    },
+    {
+        "companyname": "ASE Technology Holding Co., Ltd."
+    },
+    {
+        "companyname": "Moody's Corporation"
+    },
+    {
+        "companyname": "Publicis Groupe S.A."
+    },
+    {
+        "companyname": "PJSC LUKOIL"
+    },
+    {
+        "companyname": "Associated British Foods plc"
+    },
+    {
+        "companyname": "China Petroleum & Chemical Corporation"
+    },
+    {
+        "companyname": "Hikari Tsushin, Inc."
+    },
+    {
+        "companyname": "Cr\u00e9dit Agricole S.A."
+    },
+    {
+        "companyname": "Danske Bank A\/S"
+    },
+    {
+        "companyname": "Airbus SE"
+    },
+    {
+        "companyname": "Canara Bank"
+    },
+    {
+        "companyname": "Redeia Corporaci\u00f3n, S.A."
+    },
+    {
+        "companyname": "Banco de Sabadell, S.A."
+    },
+    {
+        "companyname": "NatWest Group plc"
+    },
+    {
+        "companyname": "Merck KGaA"
+    },
+    {
+        "companyname": "Wipro Limited"
+    },
+    {
+        "companyname": "Garmin Ltd."
+    },
+    {
+        "companyname": "TELUS Corporation"
+    },
+    {
+        "companyname": "Allianz SE"
+    },
+    {
+        "companyname": "Insulet Corporation"
+    },
+    {
+        "companyname": "KBC Group NV"
+    },
+    {
+        "companyname": "Carrier Global Corporation"
+    },
+    {
+        "companyname": "ASSA ABLOY AB (publ)"
+    },
+    {
+        "companyname": "Sandvik AB (publ)"
+    },
+    {
+        "companyname": "Henkel AG & Co. KGaA"
+    },
+    {
+        "companyname": "Securitas AB (publ)"
+    },
+    {
+        "companyname": "Svenska Handelsbanken AB (publ)"
+    },
+    {
+        "companyname": "Lonza Group AG"
+    },
+    {
+        "companyname": "Ashtead Group plc"
+    },
+    {
+        "companyname": "Elbit Systems Ltd."
+    },
+    {
+        "companyname": "Accor SA"
+    },
+    {
+        "companyname": "Telenor ASA"
+    },
+    {
+        "companyname": "JPMorgan Chase & Co."
+    },
+    {
+        "companyname": "Intesa Sanpaolo S.p.A."
+    },
+    {
+        "companyname": "Aristocrat Leisure Limited"
+    },
+    {
+        "companyname": "Rockwool A\/S"
+    },
+    {
+        "companyname": "Kingspan Group plc"
+    },
+    {
+        "companyname": "Singapore Airlines Limited"
+    },
+    {
+        "companyname": "Genmab A\/S"
+    },
+    {
+        "companyname": "Kering SA"
+    },
+    {
+        "companyname": "Suzuki Motor Corporation"
+    },
+    {
+        "companyname": "Lloyds Banking Group plc"
+    },
+    {
+        "companyname": "Bank Leumi le-Israel B.M."
+    },
+    {
+        "companyname": "Skandinaviska Enskilda Banken AB (publ)"
+    },
+    {
+        "companyname": "Blackstone Inc."
+    },
+    {
+        "companyname": "Standard Chartered PLC"
+    },
+    {
+        "companyname": "Olympus Corporation"
+    },
+    {
+        "companyname": "Schneider Electric S.E."
+    },
+    {
+        "companyname": "Coloplast A\/S"
+    },
+    {
+        "companyname": "Embraer S.A."
+    },
+    {
+        "companyname": "Stora Enso Oyj"
+    },
+    {
+        "companyname": "Chugai Pharmaceutical Co., Ltd."
+    },
+    {
+        "companyname": "Eisai Co., Ltd."
+    },
+    {
+        "companyname": "KONE Oyj"
+    },
+    {
+        "companyname": "Sanofi"
+    },
+    {
+        "companyname": "Roche Holding AG"
+    },
+    {
+        "companyname": "Recordati Industria Chimica e Farmaceutica S.p.A."
+    },
+    {
+        "companyname": "Bunge Global SA"
+    },
+    {
+        "companyname": "Leonardo S.p.a."
+    },
+    {
+        "companyname": "Informa plc"
+    },
+    {
+        "companyname": "Banco de Chile"
+    },
+    {
+        "companyname": "Trip.com Group Limited"
+    },
+    {
+        "companyname": "Banca Monte dei Paschi di Siena S.p.A."
+    },
+    {
+        "companyname": "Severn Trent PLC"
+    },
+    {
+        "companyname": "Compass Group PLC"
+    },
+    {
+        "companyname": "Alcon Inc."
+    },
+    {
+        "companyname": "Sika AG"
+    },
+    {
+        "companyname": "UniCredit S.p.A."
+    },
+    {
+        "companyname": "Fairfax Financial Holdings Limited"
+    },
+    {
+        "companyname": "Westlake Corporation"
+    },
+    {
+        "companyname": "AECOM"
+    },
+    {
+        "companyname": "Bayerische Motoren Werke Aktiengesellschaft"
+    },
+    {
+        "companyname": "Glencore plc"
+    },
+    {
+        "companyname": "IDBI Bank Limited"
+    },
+    {
+        "companyname": "Auto Trader Group plc"
+    },
+    {
+        "companyname": "PT Astra International Tbk"
+    },
+    {
+        "companyname": "Titan Company Limited"
+    },
+    {
+        "companyname": "George Weston Limited"
+    },
+    {
+        "companyname": "Taiwan Mobile Co., Ltd."
+    },
+    {
+        "companyname": "Assicurazioni Generali S.p.A."
+    },
+    {
+        "companyname": "Admiral Group plc"
+    },
+    {
+        "companyname": "Warner Music Group Corp."
+    },
+    {
+        "companyname": "OBIC Co.,Ltd."
+    },
+    {
+        "companyname": "Mondelez International, Inc."
+    },
+    {
+        "companyname": "Mitsubishi Heavy Industries, Ltd."
+    },
+    {
+        "companyname": "Persistent Systems Limited"
+    },
+    {
+        "companyname": "The Sage Group plc"
+    },
+    {
+        "companyname": "Nasdaq, Inc."
+    },
+    {
+        "companyname": "Computershare Limited"
+    },
+    {
+        "companyname": "Anheuser-Busch InBev SA\/NV"
+    },
+    {
+        "companyname": "D'Ieteren Group SA"
+    },
+    {
+        "companyname": "Toyota Industries Corporation"
+    },
+    {
+        "companyname": "Smiths Group plc"
+    },
+    {
+        "companyname": "DuPont de Nemours, Inc."
+    },
+    {
+        "companyname": "H & M Hennes & Mauritz AB (publ)"
+    },
+    {
+        "companyname": "China Merchants Bank Co., Ltd."
+    },
+    {
+        "companyname": "bioM\u00e9rieux S.A."
+    },
+    {
+        "companyname": "HCL Technologies Limited"
+    },
+    {
+        "companyname": "ACS, Actividades de Construcci\u00f3n y Servicios, S.A."
+    },
+    {
+        "companyname": "Schindler Holding AG"
+    },
+    {
+        "companyname": "Singapore Technologies Engineering Ltd"
+    },
+    {
+        "companyname": "LyondellBasell Industries N.V."
+    },
+    {
+        "companyname": "Sumitomo Electric Industries, Ltd."
+    },
+    {
+        "companyname": "Sodexo S.A."
+    },
+    {
+        "companyname": "Kikkoman Corporation"
+    },
+    {
+        "companyname": "Quanta Computer Inc."
+    },
+    {
+        "companyname": "Global Payments Inc."
+    },
+    {
+        "companyname": "Am\u00e9rica M\u00f3vil, S.A.B. de C.V."
+    },
+    {
+        "companyname": "Regency Centers Corporation"
+    },
+    {
+        "companyname": "Restaurant Brands International Inc."
+    },
+    {
+        "companyname": "Kuehne + Nagel International AG"
+    },
+    {
+        "companyname": "Symrise AG"
+    },
+    {
+        "companyname": "Zydus Lifesciences Limited"
+    },
+    {
+        "companyname": "Primerica, Inc."
+    },
+    {
+        "companyname": "The Bank of Nova Scotia"
+    },
+    {
+        "companyname": "Bridgestone Corporation"
+    },
+    {
+        "companyname": "Daiwa House Industry Co., Ltd."
+    },
+    {
+        "companyname": "Sekisui House, Ltd."
+    },
+    {
+        "companyname": "Israel Discount Bank Limited"
+    },
+    {
+        "companyname": "The Kansai Electric Power Company, Incorporated"
+    },
+    {
+        "companyname": "Jardine Matheson Holdings Limited"
+    },
+    {
+        "companyname": "Daiwa Securities Group Inc."
+    },
+    {
+        "companyname": "Ajinomoto Co., Inc."
+    },
+    {
+        "companyname": "Kao Corporation"
+    },
+    {
+        "companyname": "Loblaw Companies Limited"
+    },
+    {
+        "companyname": "Marubeni Corporation"
+    },
+    {
+        "companyname": "Komatsu Ltd."
+    },
+    {
+        "companyname": "Mitsubishi Estate Co., Ltd."
+    },
+    {
+        "companyname": "Ita\u00fa Unibanco Holding S.A."
+    },
+    {
+        "companyname": "Power Corporation of Canada"
+    },
+    {
+        "companyname": "Stellantis N.V."
+    },
+    {
+        "companyname": "Anglo American Platinum Limited"
+    },
+    {
+        "companyname": "Mitsubishi Electric Corporation"
+    },
+    {
+        "companyname": "Toray Industries, Inc."
+    },
+    {
+        "companyname": "Investor AB (publ)"
+    },
+    {
+        "companyname": "CCL Industries Inc."
+    },
+    {
+        "companyname": "Woodside Energy Group Ltd"
+    },
+    {
+        "companyname": "L'Air Liquide S.A."
+    },
+    {
+        "companyname": "National Bank of Canada"
+    },
+    {
+        "companyname": "BNP Paribas SA"
+    },
+    {
+        "companyname": "ANA Holdings Inc."
+    },
+    {
+        "companyname": "Dassault Aviation soci\u00e9t\u00e9 anonyme"
+    },
+    {
+        "companyname": "Eiffage SA"
+    },
+    {
+        "companyname": "DENSO Corporation"
+    },
+    {
+        "companyname": "DBS Group Holdings Ltd"
+    },
+    {
+        "companyname": "Origin Energy Limited"
+    },
+    {
+        "companyname": "Bangkok Bank Public Company Limited"
+    },
+    {
+        "companyname": "Akbank T.A.S."
+    },
+    {
+        "companyname": "BAE Systems plc"
+    },
+    {
+        "companyname": "Bank Hapoalim B.M."
+    },
+    {
+        "companyname": "Bank Polska Kasa Opieki S.A."
+    },
+    {
+        "companyname": "Banque Cantonale Vaudoise"
+    },
+    {
+        "companyname": "Keppel Ltd."
+    },
+    {
+        "companyname": "Asahi Kasei Corporation"
+    },
+    {
+        "companyname": "Banco do Brasil S.A."
+    },
+    {
+        "companyname": "Isuzu Motors Limited"
+    },
+    {
+        "companyname": "Tata Steel Limited"
+    },
+    {
+        "companyname": "Groupe Bruxelles Lambert SA"
+    },
+    {
+        "companyname": "Nippon Steel Corporation"
+    },
+    {
+        "companyname": "Skanska AB (publ)"
+    },
+    {
+        "companyname": "Suzano S.A."
+    },
+    {
+        "companyname": "Vale S.A."
+    },
+    {
+        "companyname": "HAL Trust"
+    },
+    {
+        "companyname": "China Steel Corporation"
+    },
+    {
+        "companyname": "L'Or\u00e9al S.A."
+    },
+    {
+        "companyname": "Malayan Banking Berhad"
+    },
+    {
+        "companyname": "Commonwealth Bank of Australia"
+    },
+    {
+        "companyname": "Ko\u00e7 Holding A.S."
+    },
+    {
+        "companyname": "GEA Group Aktiengesellschaft"
+    },
+    {
+        "companyname": "Kajima Corporation"
+    },
+    {
+        "companyname": "Kawasaki Kisen Kaisha, Ltd."
+    },
+    {
+        "companyname": "Pernod Ricard SA"
+    },
+    {
+        "companyname": "Subaru Corporation"
+    },
+    {
+        "companyname": "Mitsui O.S.K. Lines, Ltd."
+    },
+    {
+        "companyname": "Qantas Airways Limited"
+    },
+    {
+        "companyname": "SECOM CO., LTD."
+    },
+    {
+        "companyname": "Hang Seng Bank Limited"
+    },
+    {
+        "companyname": "IHI Corporation"
+    },
+    {
+        "companyname": "ITOCHU Corporation"
+    },
+    {
+        "companyname": "Riyad Bank"
+    },
+    {
+        "companyname": "The Tata Power Company Limited"
+    },
+    {
+        "companyname": "Nippon Paint Holdings Co., Ltd."
+    },
+    {
+        "companyname": "Shin-Etsu Chemical Co., Ltd."
+    },
+    {
+        "companyname": "Nippon Sanso Holdings Corporation"
+    },
+    {
+        "companyname": "Reckitt Benckiser Group plc"
+    },
+    {
+        "companyname": "SCB X Public Company Limited"
+    },
+    {
+        "companyname": "Murata Manufacturing Co., Ltd."
+    },
+    {
+        "companyname": "State Bank of India"
+    },
+    {
+        "companyname": "UCB SA"
+    },
+    {
+        "companyname": "Fanuc Corporation"
+    },
+    {
+        "companyname": "Saab AB (publ)"
+    },
+    {
+        "companyname": "Nippon Yusen Kabushiki Kaisha"
+    },
+    {
+        "companyname": "MS&AD Insurance Group Holdings, Inc."
+    },
+    {
+        "companyname": "Trelleborg AB (publ)"
+    },
+    {
+        "companyname": "The Weir Group PLC"
+    },
+    {
+        "companyname": "Sofina Soci\u00e9t\u00e9 Anonyme"
+    },
+    {
+        "companyname": "Galp Energia, SGPS, S.A."
+    },
+    {
+        "companyname": "Takeda Pharmaceutical Company Limited"
+    },
+    {
+        "companyname": "Sumitomo Realty & Development Co., Ltd."
+    },
+    {
+        "companyname": "T\u00fcrkiye Is Bankasi A.S."
+    },
+    {
+        "companyname": "Empresas Copec S.A."
+    },
+    {
+        "companyname": "Mizrahi Tefahot Bank Ltd."
+    },
+    {
+        "companyname": "Erste Group Bank AG"
+    },
+    {
+        "companyname": "Astellas Pharma Inc."
+    },
+    {
+        "companyname": "TOPPAN Holdings Inc."
+    },
+    {
+        "companyname": "Swiss Re AG"
+    },
+    {
+        "companyname": "Tata Motors Limited"
+    },
+    {
+        "companyname": "Kasikornbank Public Company Limited"
+    },
+    {
+        "companyname": "Aeon Co., Ltd."
+    },
+    {
+        "companyname": "Woolworths Group Limited"
+    },
+    {
+        "companyname": "Swiss Life Holding AG"
+    },
+    {
+        "companyname": "Marks and Spencer Group plc"
+    },
+    {
+        "companyname": "CG Power and Industrial Solutions Limited"
+    },
+    {
+        "companyname": "Aeroports de Paris SA"
+    },
+    {
+        "companyname": "Legal & General Group Plc"
+    },
+    {
+        "companyname": "Halma plc"
+    },
+    {
+        "companyname": "Aisin Corporation"
+    },
+    {
+        "companyname": "Hyundai Motor Company"
+    },
+    {
+        "companyname": "Larsen & Toubro Limited"
+    },
+    {
+        "companyname": "Compagnie G\u00e9n\u00e9rale des \u00c9tablissements Michelin Soci\u00e9t\u00e9 en commandite par actions"
+    },
+    {
+        "companyname": "Safran SA"
+    },
+    {
+        "companyname": "Uni-President Enterprises Corp."
+    },
+    {
+        "companyname": "BKW AG"
+    },
+    {
+        "companyname": "Tokyo Electron Limited"
+    },
+    {
+        "companyname": "Nitto Denko Corporation"
+    },
+    {
+        "companyname": "Porsche Automobil Holding SE"
+    },
+    {
+        "companyname": "Fisher & Paykel Healthcare Corporation Limited"
+    },
+    {
+        "companyname": "Mitsui Fudosan Co., Ltd."
+    },
+    {
+        "companyname": "AtkinsR\u00e9alis Group Inc."
+    },
+    {
+        "companyname": "Hexagon AB (publ)"
+    },
+    {
+        "companyname": "Ferguson Enterprises Inc."
+    },
+    {
+        "companyname": "MTR Corporation Limited"
+    },
+    {
+        "companyname": "HOCHTIEF Aktiengesellschaft"
+    },
+    {
+        "companyname": "Centrais El\u00e9tricas Brasileiras S.A. - Eletrobr\u00e1s"
+    },
+    {
+        "companyname": "HOYA Corporation"
+    },
+    {
+        "companyname": "VERBUND AG"
+    },
+    {
+        "companyname": "Helvetia Holding AG"
+    },
+    {
+        "companyname": "Ita\u00fasa S.A."
+    },
+    {
+        "companyname": "Shionogi & Co., Ltd."
+    },
+    {
+        "companyname": "A.P. M\u00f8ller - M\u00e6rsk A\/S"
+    },
+    {
+        "companyname": "Tokyo Gas Co.,Ltd."
+    },
+    {
+        "companyname": "Mitsubishi HC Capital Inc."
+    },
+    {
+        "companyname": "Daifuku Co., Ltd."
+    },
+    {
+        "companyname": "Osaka Gas Co., Ltd."
+    },
+    {
+        "companyname": "Macquarie Group Limited"
+    },
+    {
+        "companyname": "Advantest Corporation"
+    },
+    {
+        "companyname": "Terumo Corporation"
+    },
+    {
+        "companyname": "Great-West Lifeco Inc."
+    },
+    {
+        "companyname": "The Swatch Group AG"
+    },
+    {
+        "companyname": "Fortis Inc."
+    },
+    {
+        "companyname": "Wal-Mart de M\u00e9xico, S.A.B. de C.V."
+    },
+    {
+        "companyname": "Obayashi Corporation"
+    },
+    {
+        "companyname": "Wesfarmers Limited"
+    },
+    {
+        "companyname": "ASICS Corporation"
+    },
+    {
+        "companyname": "Compagnie de Saint-Gobain S.A."
+    },
+    {
+        "companyname": "Capgemini SE"
+    },
+    {
+        "companyname": "Mapfre, S.A."
+    },
+    {
+        "companyname": "Kongsberg Gruppen ASA"
+    },
+    {
+        "companyname": "Daikin Industries,Ltd."
+    },
+    {
+        "companyname": "Edison S.p.A."
+    },
+    {
+        "companyname": "Nintendo Co., Ltd."
+    },
+    {
+        "companyname": "Fujikura Ltd."
+    },
+    {
+        "companyname": "Beiersdorf Aktiengesellschaft"
+    },
+    {
+        "companyname": "Chocoladefabriken Lindt & Spr\u00fcngli AG"
+    },
+    {
+        "companyname": "W\u00e4rtsil\u00e4 Oyj Abp"
+    },
+    {
+        "companyname": "Alimentation Couche-Tard Inc."
+    },
+    {
+        "companyname": "Metro Inc."
+    },
+    {
+        "companyname": "Rexel S.A."
+    },
+    {
+        "companyname": "Kerry Group plc"
+    },
+    {
+        "companyname": "L E Lundbergf\u00f6retagen AB (publ)"
+    },
+    {
+        "companyname": "Unipol Assicurazioni S.p.A."
+    },
+    {
+        "companyname": "M\u00fcnchener R\u00fcckversicherungs-Gesellschaft Aktiengesellschaft in M\u00fcnchen"
+    },
+    {
+        "companyname": "EMS-CHEMIE HOLDING AG"
+    },
+    {
+        "companyname": "Sanrio Company, Ltd."
+    },
+    {
+        "companyname": "HELLA GmbH & Co. KGaA"
+    },
+    {
+        "companyname": "Suncorp Group Limited"
+    },
+    {
+        "companyname": "Unibail-Rodamco-Westfield SE"
+    },
+    {
+        "companyname": "Goodman Group"
+    },
+    {
+        "companyname": "ageas SA\/NV"
+    },
+    {
+        "companyname": "BPER Banca SpA"
+    },
+    {
+        "companyname": "Keyence Corporation"
+    },
+    {
+        "companyname": "Techtronic Industries Company Limited"
+    },
+    {
+        "companyname": "CITIC Limited"
+    },
+    {
+        "companyname": "SMC Corporation"
+    },
+    {
+        "companyname": "iA Financial Corporation Inc."
+    },
+    {
+        "companyname": "Compagnie Financi\u00e8re Richemont SA"
+    },
+    {
+        "companyname": "Emera Incorporated"
+    },
+    {
+        "companyname": "Toyota Tsusho Corporation"
+    },
+    {
+        "companyname": "SSE plc"
+    },
+    {
+        "companyname": "Banco Bradesco S.A."
+    },
+    {
+        "companyname": "Grupo Carso, S.A.B. de C.V."
+    },
+    {
+        "companyname": "SEGRO Plc"
+    },
+    {
+        "companyname": "Antofagasta plc"
+    },
+    {
+        "companyname": "Asahi Group Holdings, Ltd."
+    },
+    {
+        "companyname": "Galaxy Entertainment Group Limited"
+    },
+    {
+        "companyname": "Vinci SA"
+    },
+    {
+        "companyname": "Nestl\u00e9 India Limited"
+    },
+    {
+        "companyname": "Christian Dior SE"
+    },
+    {
+        "companyname": "Grupo Bimbo, S.A.B. de C.V."
+    },
+    {
+        "companyname": "QBE Insurance Group Limited"
+    },
+    {
+        "companyname": "Grasim Industries Limited"
+    },
+    {
+        "companyname": "Absa Group Limited"
+    },
+    {
+        "companyname": "ITC Limited"
+    },
+    {
+        "companyname": "Baloise Holding AG"
+    },
+    {
+        "companyname": "Britannia Industries Limited"
+    },
+    {
+        "companyname": "Jer\u00f3nimo Martins, SGPS, S.A."
+    },
+    {
+        "companyname": "Vedanta Limited"
+    },
+    {
+        "companyname": "Asian Paints Limited"
+    },
+    {
+        "companyname": "China Resources Beer (Holdings) Company Limited"
+    },
+    {
+        "companyname": "Bajaj Holdings & Investment Limited"
+    },
+    {
+        "companyname": "The Indian Hotels Company Limited"
+    },
+    {
+        "companyname": "Ambuja Cements Limited"
+    },
+    {
+        "companyname": "Reliance Industries Limited"
+    },
+    {
+        "companyname": "Hindustan Unilever Limited"
+    },
+    {
+        "companyname": "Mahindra & Mahindra Limited"
+    },
+    {
+        "companyname": "Hindalco Industries Limited"
+    },
+    {
+        "companyname": "Siemens Limited"
+    },
+    {
+        "companyname": "Evergreen Marine Corporation (Taiwan) Ltd."
+    },
+    {
+        "companyname": "Cummins India Limited"
+    },
+    {
+        "companyname": "Japan Tobacco Inc."
+    },
+    {
+        "companyname": "Samsung SDI Co., Ltd."
+    },
+    {
+        "companyname": "China Overseas Land & Investment Limited"
+    },
+    {
+        "companyname": "ABB India Limited"
+    },
+    {
+        "companyname": "Nan Ya Plastics Corporation"
+    },
+    {
+        "companyname": "Torrent Pharmaceuticals Limited"
+    },
+    {
+        "companyname": "East Japan Railway Company"
+    },
+    {
+        "companyname": "TVS Motor Company Limited"
+    },
+    {
+        "companyname": "mBank S.A."
+    },
+    {
+        "companyname": "Shimano Inc."
+    },
+    {
+        "companyname": "DSV A\/S"
+    },
+    {
+        "companyname": "Pidilite Industries Limited"
+    },
+    {
+        "companyname": "Krung Thai Bank Public Company Limited"
+    },
+    {
+        "companyname": "Naturgy Energy Group, S.A."
+    },
+    {
+        "companyname": "PTT Exploration and Production Public Company Limited"
+    },
+    {
+        "companyname": "Kl\u00e9pierre SA"
+    },
+    {
+        "companyname": "Sonic Healthcare Limited"
+    },
+    {
+        "companyname": "Turkiye Garanti Bankasi A.S."
+    },
+    {
+        "companyname": "Bangkok Dusit Medical Services Public Company Limited"
+    },
+    {
+        "companyname": "Bollor\u00e9 SE"
+    },
+    {
+        "companyname": "True Corporation Public Company Limited"
+    },
+    {
+        "companyname": "Fresenius SE & Co. KGaA"
+    },
+    {
+        "companyname": "QNB Bank A.S."
+    },
+    {
+        "companyname": "Shoprite Holdings Ltd"
+    },
+    {
+        "companyname": "WEG S.A."
+    },
+    {
+        "companyname": "ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi"
+    },
+    {
+        "companyname": "Grupo M\u00e9xico, S.A.B. de C.V."
+    },
+    {
+        "companyname": "KDDI Corporation"
+    },
+    {
+        "companyname": "Stantec Inc."
+    },
+    {
+        "companyname": "ING Bank Slaski S.A."
+    },
+    {
+        "companyname": "Capcom Co., Ltd."
+    },
+    {
+        "companyname": "Komercn\u00ed banka, a.s."
+    },
+    {
+        "companyname": "Companhia de Saneamento B\u00e1sico do Estado de S\u00e3o Paulo - SABESP"
+    },
+    {
+        "companyname": "Konami Group Corporation"
+    },
+    {
+        "companyname": "Unicharm Corporation"
+    },
+    {
+        "companyname": "First Quantum Minerals Ltd."
+    },
+    {
+        "companyname": "NTT DATA Group Corporation"
+    },
+    {
+        "companyname": "JSW Steel Limited"
+    },
+    {
+        "companyname": "Dabur India Limited"
+    },
+    {
+        "companyname": "SRF Limited"
+    },
+    {
+        "companyname": "Pembina Pipeline Corporation"
+    },
+    {
+        "companyname": "Sartorius Aktiengesellschaft"
+    },
+    {
+        "companyname": "CSL Limited"
+    },
+    {
+        "companyname": "Oriental Land Co., Ltd."
+    },
+    {
+        "companyname": "Fubon Financial Holding Co., Ltd."
+    },
+    {
+        "companyname": "Hero MotoCorp Limited"
+    },
+    {
+        "companyname": "Bajaj Finance Limited"
+    },
+    {
+        "companyname": "Delta Electronics, Inc."
+    },
+    {
+        "companyname": "Coca-Cola HBC AG"
+    },
+    {
+        "companyname": "West Japan Railway Company"
+    },
+    {
+        "companyname": "Dr. Reddy's Laboratories Limited"
+    },
+    {
+        "companyname": "Herm\u00e8s International Soci\u00e9t\u00e9 en commandite par actions"
+    },
+    {
+        "companyname": "Transurban Group"
+    },
+    {
+        "companyname": "Delta Electronics (Thailand) Public Company Limited"
+    },
+    {
+        "companyname": "BELIMO Holding AG"
+    },
+    {
+        "companyname": "CK Infrastructure Holdings Limited"
+    },
+    {
+        "companyname": "Eurobank Ergasias Services and Holdings S.A."
+    },
+    {
+        "companyname": "Dai-ichi Life Holdings, Inc."
+    },
+    {
+        "companyname": "Hannover R\u00fcck SE"
+    },
+    {
+        "companyname": "Naspers Limited"
+    },
+    {
+        "companyname": "Sonova Holding AG"
+    },
+    {
+        "companyname": "Yageo Corporation"
+    },
+    {
+        "companyname": "Central Japan Railway Company"
+    },
+    {
+        "companyname": "Cipla Limited"
+    },
+    {
+        "companyname": "Centrica plc"
+    },
+    {
+        "companyname": "China Resources Land Limited"
+    },
+    {
+        "companyname": "Disco Corporation"
+    },
+    {
+        "companyname": "PT Bank Negara Indonesia (Persero) Tbk"
+    },
+    {
+        "companyname": "Bank of Baroda Limited"
+    },
+    {
+        "companyname": "MTN Group Limited"
+    },
+    {
+        "companyname": "Sysmex Corporation"
+    },
+    {
+        "companyname": "FirstRand Limited"
+    },
+    {
+        "companyname": "Sembcorp Industries Ltd"
+    },
+    {
+        "companyname": "Hindustan Zinc Limited"
+    },
+    {
+        "companyname": "Fortum Oyj"
+    },
+    {
+        "companyname": "Ford Otomotiv Sanayi A.S."
+    },
+    {
+        "companyname": "Sanlam Limited"
+    },
+    {
+        "companyname": "Nidec Corporation"
+    },
+    {
+        "companyname": "Oil and Natural Gas Corporation Limited"
+    },
+    {
+        "companyname": "Falabella S.A."
+    },
+    {
+        "companyname": "Adani Enterprises Limited"
+    },
+    {
+        "companyname": "Nemetschek SE"
+    },
+    {
+        "companyname": "Pan Pacific International Holdings Corporation"
+    },
+    {
+        "companyname": "SK hynix Inc."
+    },
+    {
+        "companyname": "Alamos Gold Inc."
+    },
+    {
+        "companyname": "Nitori Holdings Co., Ltd."
+    },
+    {
+        "companyname": "Orlen S.A."
+    },
+    {
+        "companyname": "Hon Hai Precision Industry Co., Ltd."
+    },
+    {
+        "companyname": "Amadeus IT Group, S.A."
+    },
+    {
+        "companyname": "Ferrovial SE"
+    },
+    {
+        "companyname": "Eurofins Scientific SE"
+    },
+    {
+        "companyname": "T\u00fcrk Hava Yollari Anonim Ortakligi"
+    },
+    {
+        "companyname": "Mowi ASA"
+    },
+    {
+        "companyname": "Canadian Pacific Kansas City Limited"
+    },
+    {
+        "companyname": "Axon Enterprise, Inc."
+    },
+    {
+        "companyname": "Veolia Environnement SA"
+    },
+    {
+        "companyname": "AerCap Holdings N.V."
+    },
+    {
+        "companyname": "Novonesis A\/S"
+    },
+    {
+        "companyname": "Renesas Electronics Corporation"
+    },
+    {
+        "companyname": "Kotak Mahindra Bank Limited"
+    },
+    {
+        "companyname": "NXP Semiconductors N.V."
+    },
+    {
+        "companyname": "Buzzi S.p.A."
+    },
+    {
+        "companyname": "Bouygues SA"
+    },
+    {
+        "companyname": "Ally Financial Inc."
+    },
+    {
+        "companyname": "Zurich Insurance Group AG"
+    },
+    {
+        "companyname": "Grupo Aeroportuario del Sureste, S. A. B. de C. V."
+    },
+    {
+        "companyname": "Accton Technology Corporation"
+    },
+    {
+        "companyname": "Accenture plc"
+    },
+    {
+        "companyname": "Equinor ASA"
+    },
+    {
+        "companyname": "A. O. Smith Corporation"
+    },
+    {
+        "companyname": "Aramark"
+    },
+    {
+        "companyname": "Verisk Analytics, Inc."
+    },
+    {
+        "companyname": "Broadridge Financial Solutions, Inc."
+    },
+    {
+        "companyname": "SGS SA"
+    },
+    {
+        "companyname": "Prudential Financial, Inc."
+    },
+    {
+        "companyname": "CNOOC Limited"
+    },
+    {
+        "companyname": "Mizuho Financial Group, Inc."
+    },
+    {
+        "companyname": "Hapag-Lloyd Aktiengesellschaft"
+    },
+    {
+        "companyname": "Swedish Orphan Biovitrum AB (publ)"
+    },
+    {
+        "companyname": "Engie SA"
+    },
+    {
+        "companyname": "Intercontinental Exchange, Inc."
+    },
+    {
+        "companyname": "Metso Oyj"
+    },
+    {
+        "companyname": "Oversea-Chinese Banking Corporation Limited"
+    },
+    {
+        "companyname": "Ovintiv Inc."
+    },
+    {
+        "companyname": "Saudi Arabian Oil Company"
+    },
+    {
+        "companyname": "Nomura Holdings, Inc."
+    },
+    {
+        "companyname": "Flutter Entertainment plc"
+    },
+    {
+        "companyname": "Honeywell International Inc."
+    },
+    {
+        "companyname": "GameStop Corp."
+    },
+    {
+        "companyname": "James Hardie Industries plc"
+    },
+    {
+        "companyname": "TechnipFMC plc"
+    },
+    {
+        "companyname": "Addtech AB (publ.)"
+    },
+    {
+        "companyname": "Semiconductor Manufacturing International Corporation"
+    },
+    {
+        "companyname": "Acuity Inc."
+    },
+    {
+        "companyname": "President Chain Store Corporation"
+    },
+    {
+        "companyname": "Skyworks Solutions, Inc."
+    },
+    {
+        "companyname": "Deutsche B\u00f6rse AG"
+    },
+    {
+        "companyname": "Tradeweb Markets Inc."
+    },
+    {
+        "companyname": "Givaudan SA"
+    },
+    {
+        "companyname": "Grupo Financiero Galicia S.A."
+    },
+    {
+        "companyname": "Knorr-Bremse AG"
+    },
+    {
+        "companyname": "LY Corporation"
+    },
+    {
+        "companyname": "Aluminum Corporation of China Limited"
+    },
+    {
+        "companyname": "BAWAG Group AG"
+    },
+    {
+        "companyname": "Bank of Nanjing Co., Ltd."
+    },
+    {
+        "companyname": "Far EasTone Telecommunications Co., Ltd."
+    },
+    {
+        "companyname": "ASX Limited"
+    },
+    {
+        "companyname": "Celltrion, Inc."
+    },
+    {
+        "companyname": "Deutsche Post AG"
+    },
+    {
+        "companyname": "Saudi Basic Industries Corporation"
+    },
+    {
+        "companyname": "PT Bank Central Asia Tbk"
+    },
+    {
+        "companyname": "CME Group Inc."
+    },
+    {
+        "companyname": "Brenntag SE"
+    },
+    {
+        "companyname": "Powszechny Zaklad Ubezpieczen SA"
+    },
+    {
+        "companyname": "Hydro One Limited"
+    },
+    {
+        "companyname": "Great Eastern Holdings Limited"
+    },
+    {
+        "companyname": "Public Joint Stock Company Mining and Metallurgical Company Norilsk Nickel"
+    },
+    {
+        "companyname": "Advantech Co., Ltd."
+    },
+    {
+        "companyname": "Swiss Prime Site AG"
+    },
+    {
+        "companyname": "Insurance Australia Group Limited"
+    },
+    {
+        "companyname": "Oracle Corporation Japan"
+    },
+    {
+        "companyname": "Singapore Exchange Limited"
+    },
+    {
+        "companyname": "Hong Kong Exchanges and Clearing Limited"
+    },
+    {
+        "companyname": "Mitsubishi UFJ Financial Group, Inc."
+    },
+    {
+        "companyname": "Sumitomo Mitsui Financial Group, Inc."
+    },
+    {
+        "companyname": "Kia Corporation"
+    },
+    {
+        "companyname": "CP Axtra Public Company Limited"
+    },
+    {
+        "companyname": "Hyundai Mobis Co.,Ltd"
+    },
+    {
+        "companyname": "LARGAN Precision Co.,Ltd"
+    },
+    {
+        "companyname": "China International Capital Corporation Limited"
+    },
+    {
+        "companyname": "Core & Main, Inc."
+    },
+    {
+        "companyname": "Fortinet, Inc."
+    },
+    {
+        "companyname": "Alnylam Pharmaceuticals, Inc."
+    },
+    {
+        "companyname": "Guidewire Software, Inc."
+    },
+    {
+        "companyname": "Recruit Holdings Co., Ltd."
+    },
+    {
+        "companyname": "Wistron Corporation"
+    },
+    {
+        "companyname": "Investment AB Latour (publ)"
+    },
+    {
+        "companyname": "ARC Resources Ltd."
+    },
+    {
+        "companyname": "Sampo Oyj"
+    },
+    {
+        "companyname": "IndusInd Bank Limited"
+    },
+    {
+        "companyname": "Cathay Financial Holding Co., Ltd."
+    },
+    {
+        "companyname": "ZTE Corporation"
+    },
+    {
+        "companyname": "Realtek Semiconductor Corp."
+    },
+    {
+        "companyname": "Monolithic Power Systems, Inc."
+    },
+    {
+        "companyname": "Saia, Inc."
+    },
+    {
+        "companyname": "Wheaton Precious Metals Corp."
+    },
+    {
+        "companyname": "Straumann Holding AG"
+    },
+    {
+        "companyname": "Domino's Pizza, Inc."
+    },
+    {
+        "companyname": "Constellation Energy Corporation"
+    },
+    {
+        "companyname": "XPO, Inc."
+    },
+    {
+        "companyname": "MTU Aero Engines AG"
+    },
+    {
+        "companyname": "Ping An Bank Co., Ltd."
+    },
+    {
+        "companyname": "Somnigroup International Inc."
+    },
+    {
+        "companyname": "China Telecom Corporation Limited"
+    },
+    {
+        "companyname": "Wynn Resorts, Limited"
+    },
+    {
+        "companyname": "Chunghwa Telecom Co., Ltd."
+    },
+    {
+        "companyname": "Shenzhen Mindray Bio-Medical Electronics Co., Ltd."
+    },
+    {
+        "companyname": "LG Chem, Ltd."
+    },
+    {
+        "companyname": "Las Vegas Sands Corp."
+    },
+    {
+        "companyname": "China Life Insurance Company Limited"
+    },
+    {
+        "companyname": "Discover Financial Services"
+    },
+    {
+        "companyname": "Axis Bank Limited"
+    },
+    {
+        "companyname": "Seagate Technology Holdings plc"
+    },
+    {
+        "companyname": "Orkla ASA"
+    },
+    {
+        "companyname": "London Stock Exchange Group plc"
+    },
+    {
+        "companyname": "Tenaris S.A."
+    },
+    {
+        "companyname": "Rakuten Group, Inc."
+    },
+    {
+        "companyname": "Assurant, Inc."
+    },
+    {
+        "companyname": "Telia Company AB (publ)"
+    },
+    {
+        "companyname": "Molina Healthcare, Inc."
+    },
+    {
+        "companyname": "Heidelberg Materials AG"
+    },
+    {
+        "companyname": "Ameriprise Financial, Inc."
+    },
+    {
+        "companyname": "Norwegian Cruise Line Holdings Ltd."
+    },
+    {
+        "companyname": "Interactive Brokers Group, Inc."
+    },
+    {
+        "companyname": "Intact Financial Corporation"
+    },
+    {
+        "companyname": "CBRE Group, Inc."
+    },
+    {
+        "companyname": "LKQ Corporation"
+    },
+    {
+        "companyname": "KGI Financial Holding Co., Ltd."
+    },
+    {
+        "companyname": "Industria de Dise\u00f1o Textil, S.A."
+    },
+    {
+        "companyname": "LTIMindtree Limited"
+    },
+    {
+        "companyname": "Saudi Awwal Bank"
+    },
+    {
+        "companyname": "Bharat Petroleum Corporation Limited"
+    },
+    {
+        "companyname": "Exor N.V."
+    },
+    {
+        "companyname": "Fortescue Ltd"
+    },
+    {
+        "companyname": "CubeSmart"
+    },
+    {
+        "companyname": "Fast Retailing Co., Ltd."
+    },
+    {
+        "companyname": "Cholamandalam Investment and Finance Company Limited"
+    },
+    {
+        "companyname": "NIBE Industrier AB (publ)"
+    },
+    {
+        "companyname": "REA Group Limited"
+    },
+    {
+        "companyname": "Gjensidige Forsikring ASA"
+    },
+    {
+        "companyname": "Antero Resources Corporation"
+    },
+    {
+        "companyname": "First Solar, Inc."
+    },
+    {
+        "companyname": "Texas Roadhouse, Inc."
+    },
+    {
+        "companyname": "EnBW Energie Baden-W\u00fcrttemberg AG"
+    },
+    {
+        "companyname": "EPAM Systems, Inc."
+    },
+    {
+        "companyname": "Bank of China Limited"
+    },
+    {
+        "companyname": "Maruti Suzuki India Limited"
+    },
+    {
+        "companyname": "Meridian Energy Limited"
+    },
+    {
+        "companyname": "Lasertec Corporation"
+    },
+    {
+        "companyname": "JCET Group Co., Ltd."
+    },
+    {
+        "companyname": "Shanghai Pudong Development Bank Co., Ltd."
+    },
+    {
+        "companyname": "Lifco AB (publ)"
+    },
+    {
+        "companyname": "China Construction Bank Corporation"
+    },
+    {
+        "companyname": "Agricultural Bank of China Limited"
+    },
+    {
+        "companyname": "Kingdom Holding Company"
+    },
+    {
+        "companyname": "China United Network Communications Limited"
+    },
+    {
+        "companyname": "The People's Insurance Company (Group) of China Limited"
+    },
+    {
+        "companyname": "Baoshan Iron & Steel Co., Ltd."
+    },
+    {
+        "companyname": "Wilmar International Limited"
+    },
+    {
+        "companyname": "PTT Public Company Limited"
+    },
+    {
+        "companyname": "China Pacific Insurance (Group) Co., Ltd."
+    },
+    {
+        "companyname": "Nomura Research Institute, Ltd."
+    },
+    {
+        "companyname": "China CITIC Bank Corporation Limited"
+    },
+    {
+        "companyname": "Boliden AB (publ)"
+    },
+    {
+        "companyname": "Chongqing Changan Automobile Company Limited"
+    },
+    {
+        "companyname": "Snam S.p.A."
+    },
+    {
+        "companyname": "Haier Smart Home Co., Ltd."
+    },
+    {
+        "companyname": "Terna S.p.A."
+    },
+    {
+        "companyname": "China Everbright Bank Company Limited"
+    },
+    {
+        "companyname": "JBS S.A."
+    },
+    {
+        "companyname": "Wuliangye Yibin Co.,Ltd."
+    },
+    {
+        "companyname": "Hua Xia Bank Co., Limited"
+    },
+    {
+        "companyname": "China Vanke Co., Ltd."
+    },
+    {
+        "companyname": "Kuwait Finance House K.S.C.P."
+    },
+    {
+        "companyname": "China Galaxy Securities Co., Ltd."
+    },
+    {
+        "companyname": "Bank of Shanghai Co., Ltd."
+    },
+    {
+        "companyname": "Chow Tai Fook Jewellery Group Limited"
+    },
+    {
+        "companyname": "Euronext N.V."
+    },
+    {
+        "companyname": "Carlsberg A\/S"
+    },
+    {
+        "companyname": "LPP SA"
+    },
+    {
+        "companyname": "CITIC Securities Company Limited"
+    },
+    {
+        "companyname": "Vonovia SE"
+    },
+    {
+        "companyname": "Guotai Junan Securities Co., Ltd."
+    },
+    {
+        "companyname": "Yutong Bus Co.,Ltd."
+    },
+    {
+        "companyname": "Henan Shuanghui Investment & Development Co.,Ltd."
+    },
+    {
+        "companyname": "SAIC Motor Corporation Limited"
+    },
+    {
+        "companyname": "New China Life Insurance Company Ltd."
+    },
+    {
+        "companyname": "China Tourism Group Duty Free Corporation Limited"
+    },
+    {
+        "companyname": "BYD Company Limited"
+    },
+    {
+        "companyname": "TBEA Co., Ltd."
+    },
+    {
+        "companyname": "Zhejiang Juhua Co., Ltd."
+    },
+    {
+        "companyname": "RATIONAL Aktiengesellschaft"
+    },
+    {
+        "companyname": "CTS Eventim AG & Co. KGaA"
+    },
+    {
+        "companyname": "Legrand SA"
+    },
+    {
+        "companyname": "Shanghai International Airport Co., Ltd."
+    },
+    {
+        "companyname": "Fuyao Glass Industry Group Co., Ltd."
+    },
+    {
+        "companyname": "Anhui Jianghuai Automobile Group Corp.,Ltd."
+    },
+    {
+        "companyname": "Deutsche Wohnen SE"
+    },
+    {
+        "companyname": "Luzhou Laojiao Co.,Ltd"
+    },
+    {
+        "companyname": "Orient Securities Company Limited"
+    },
+    {
+        "companyname": "Haitong Securities Co., Ltd."
+    },
+    {
+        "companyname": "Huatai Securities Co., Ltd."
+    },
+    {
+        "companyname": "Bank of Chengdu Co., Ltd."
+    },
+    {
+        "companyname": "Public Joint Stock Company Gazprom"
+    },
+    {
+        "companyname": "Sany Heavy Industry Co.,Ltd"
+    },
+    {
+        "companyname": "Heineken Holding N.V."
+    },
+    {
+        "companyname": "Bank of Communications Co., Ltd."
+    },
+    {
+        "companyname": "Shinkin Central Bank"
+    },
+    {
+        "companyname": "Otsuka Corporation"
+    },
+    {
+        "companyname": "Bank of Beijing Co., Ltd."
+    },
+    {
+        "companyname": "AVIC Xi'an Aircraft Industry Group Company Ltd."
+    },
+    {
+        "companyname": "MediaTek Inc."
+    },
+    {
+        "companyname": "Huizhou Desay SV Automotive Co., Ltd."
+    },
+    {
+        "companyname": "Jiangsu Hengrui Medicine Co., Ltd."
+    },
+    {
+        "companyname": "Banco BPM S.p.A."
+    },
+    {
+        "companyname": "Surgutneftegas Public Joint Stock Company"
+    },
+    {
+        "companyname": "Resona Holdings, Inc."
+    },
+    {
+        "companyname": "Idemitsu Kosan Co.,Ltd."
+    },
+    {
+        "companyname": "Saudi Telecom Company"
+    },
+    {
+        "companyname": "Tata Consultancy Services Limited"
+    },
+    {
+        "companyname": "Inpex Corporation"
+    },
+    {
+        "companyname": "Tryg A\/S"
+    },
+    {
+        "companyname": "China Minsheng Banking Corp., Ltd."
+    },
+    {
+        "companyname": "Yunnan Baiyao Group Co.,Ltd"
+    },
+    {
+        "companyname": "Mastercard Incorporated"
+    },
+    {
+        "companyname": "Super Micro Computer, Inc."
+    },
+    {
+        "companyname": "Nongfu Spring Co., Ltd."
+    },
+    {
+        "companyname": "Shanghai Baosight Software Co.,Ltd."
+    },
+    {
+        "companyname": "\u00d8rsted A\/S"
+    },
+    {
+        "companyname": "Shanxi Xinghuacun Fen Wine Factory Co.,Ltd."
+    },
+    {
+        "companyname": "Arca Continental, S.A.B. de C.V."
+    },
+    {
+        "companyname": "China Resources Microelectronics Limited"
+    },
+    {
+        "companyname": "China Satellite Communications Co., Ltd."
+    },
+    {
+        "companyname": "Philip Morris International Inc."
+    },
+    {
+        "companyname": "AB Sagax (publ)"
+    },
+    {
+        "companyname": "Saudi Arabian Mining Company (Ma'aden)"
+    },
+    {
+        "companyname": "Jazz Pharmaceuticals plc"
+    },
+    {
+        "companyname": "BOE Technology Group Company Limited"
+    },
+    {
+        "companyname": "Sprouts Farmers Market, Inc."
+    },
+    {
+        "companyname": "Vodacom Group Limited"
+    },
+    {
+        "companyname": "Raiffeisen Bank International AG"
+    },
+    {
+        "companyname": "Puig Brands, S.A."
+    },
+    {
+        "companyname": "PICC Property and Casualty Company Limited"
+    },
+    {
+        "companyname": "Azrieli Group Ltd."
+    },
+    {
+        "companyname": "First Financial Holding Co., Ltd."
+    },
+    {
+        "companyname": "Public Joint Stock Company Severstal"
+    },
+    {
+        "companyname": "Pro Medicus Limited"
+    },
+    {
+        "companyname": "Public Joint Stock Company Gazprom Neft"
+    },
+    {
+        "companyname": "NEXT plc"
+    },
+    {
+        "companyname": "GAIL (India) Limited"
+    },
+    {
+        "companyname": "Sumitomo Mitsui Trust Group, Inc."
+    },
+    {
+        "companyname": "BOC Hong Kong (Holdings) Limited"
+    },
+    {
+        "companyname": "Capitec Bank Holdings Limited"
+    },
+    {
+        "companyname": "SinoPac Financial Holdings Company Limited"
+    },
+    {
+        "companyname": "SBI Holdings, Inc."
+    },
+    {
+        "companyname": "Public Joint Stock Company Rosneft Oil Company"
+    },
+    {
+        "companyname": "Indian Oil Corporation Limited"
+    },
+    {
+        "companyname": "MSCI Inc."
+    },
+    {
+        "companyname": "China Railway Construction Corporation Limited"
+    },
+    {
+        "companyname": "Prada S.p.A."
+    },
+    {
+        "companyname": "Vistra Corp."
+    },
+    {
+        "companyname": "Punjab National Bank"
+    },
+    {
+        "companyname": "Life Insurance Corporation of India"
+    },
+    {
+        "companyname": "Extra Space Storage Inc."
+    },
+    {
+        "companyname": "Anhui Gujing Distillery Co., Ltd."
+    },
+    {
+        "companyname": "Standard Bank Group Limited"
+    },
+    {
+        "companyname": "Santander Bank Polska S.A."
+    },
+    {
+        "companyname": "CapitaLand Ascendas REIT"
+    },
+    {
+        "companyname": "TE Connectivity plc"
+    },
+    {
+        "companyname": "Experian plc"
+    },
+    {
+        "companyname": "Inspur Electronic Information Industry Co., Ltd."
+    },
+    {
+        "companyname": "ASR Nederland N.V."
+    },
+    {
+        "companyname": "Ecopetrol S.A."
+    },
+    {
+        "companyname": "NN Group N.V."
+    },
+    {
+        "companyname": "CTBC Financial Holding Co., Ltd."
+    },
+    {
+        "companyname": "Rheinmetall AG"
+    },
+    {
+        "companyname": "Talanx AG"
+    },
+    {
+        "companyname": "Poste Italiane S.p.A."
+    },
+    {
+        "companyname": "Evonik Industries AG"
+    },
+    {
+        "companyname": "Mega Financial Holding Co., Ltd."
+    },
+    {
+        "companyname": "InterGlobe Aviation Limited"
+    },
+    {
+        "companyname": "Zijin Mining Group Company Limited"
+    },
+    {
+        "companyname": "CEZ, a. s."
+    },
+    {
+        "companyname": "Public Joint Stock Company ALROSA"
+    },
+    {
+        "companyname": "PT Bank Mandiri (Persero) Tbk"
+    },
+    {
+        "companyname": "PT Bank Rakyat Indonesia (Persero) Tbk"
+    },
+    {
+        "companyname": "Melrose Industries PLC"
+    },
+    {
+        "companyname": "Roku, Inc."
+    },
+    {
+        "companyname": "Godrej Consumer Products Limited"
+    },
+    {
+        "companyname": "HDFC Life Insurance Company Limited"
+    },
+    {
+        "companyname": "NAVER Corporation"
+    },
+    {
+        "companyname": "Power Finance Corporation Limited"
+    },
+    {
+        "companyname": "TCL Technology Group Corporation"
+    },
+    {
+        "companyname": "Joint Stock Commercial Bank for Foreign Trade of Vietnam"
+    },
+    {
+        "companyname": "Indian Overseas Bank"
+    },
+    {
+        "companyname": "Globus Medical, Inc."
+    },
+    {
+        "companyname": "Sberbank of Russia"
+    },
+    {
+        "companyname": "Union Bank of India"
+    },
+    {
+        "companyname": "Indian Bank"
+    },
+    {
+        "companyname": "Apollo Hospitals Enterprise Limited"
+    },
+    {
+        "companyname": "Bharat Electronics Limited"
+    },
+    {
+        "companyname": "Formosa Petrochemical Corporation"
+    },
+    {
+        "companyname": "United Spirits Limited"
+    },
+    {
+        "companyname": "E.SUN Financial Holding Company, Ltd."
+    },
+    {
+        "companyname": "Eicher Motors Limited"
+    },
+    {
+        "companyname": "Great Wall Motor Company Limited"
+    },
+    {
+        "companyname": "Hyundai Motor India Limited"
+    },
+    {
+        "companyname": "Aker BP ASA"
+    },
+    {
+        "companyname": "Banque Saudi Fransi"
+    },
+    {
+        "companyname": "Qinghai Salt Lake Industry Co.,Ltd"
+    },
+    {
+        "companyname": "Hindustan Aeronautics Limited"
+    },
+    {
+        "companyname": "Coal India Limited"
+    },
+    {
+        "companyname": "NARI Technology Co., Ltd."
+    },
+    {
+        "companyname": "Havells India Limited"
+    },
+    {
+        "companyname": "Beijer Ref AB (publ)"
+    },
+    {
+        "companyname": "Divi's Laboratories Limited"
+    },
+    {
+        "companyname": "China Yangtze Power Co., Ltd."
+    },
+    {
+        "companyname": "Zoomlion Heavy Industry Science and Technology Co., Ltd."
+    },
+    {
+        "companyname": "Hua Nan Financial Holdings Co., Ltd."
+    },
+    {
+        "companyname": "CP ALL Public Company Limited"
+    },
+    {
+        "companyname": "Guangzhou Automobile Group Co., Ltd."
+    },
+    {
+        "companyname": "GD Power Development Co.,Ltd"
+    },
+    {
+        "companyname": "Weichai Power Co., Ltd."
+    },
+    {
+        "companyname": "Tech Mahindra Limited"
+    },
+    {
+        "companyname": "Intra-Cellular Therapies, Inc."
+    },
+    {
+        "companyname": "Kweichow Moutai Co., Ltd."
+    },
+    {
+        "companyname": "Wanhua Chemical Group Co., Ltd."
+    },
+    {
+        "companyname": "Tongwei Co.,Ltd"
+    },
+    {
+        "companyname": "Covestro AG"
+    },
+    {
+        "companyname": "Power Grid Corporation of India Limited"
+    },
+    {
+        "companyname": "Arab National Bank"
+    },
+    {
+        "companyname": "Novatek Microelectronics Corp."
+    },
+    {
+        "companyname": "Shandong Gold Mining Co., Ltd."
+    },
+    {
+        "companyname": "Lupin Limited"
+    },
+    {
+        "companyname": "Zhongjin Gold Corp.,Ltd"
+    },
+    {
+        "companyname": "Shanghai International Port (Group) Co., Ltd."
+    },
+    {
+        "companyname": "NTPC Limited"
+    },
+    {
+        "companyname": "Airports of Thailand Public Company Limited"
+    },
+    {
+        "companyname": "The Saudi National Bank"
+    },
+    {
+        "companyname": "Yuanta Financial Holding Co., Ltd."
+    },
+    {
+        "companyname": "Sichuan Road & Bridge Group Co.,Ltd"
+    },
+    {
+        "companyname": "Al Rajhi Banking and Investment Corporation"
+    },
+    {
+        "companyname": "SDIC Power Holdings Co., Ltd"
+    },
+    {
+        "companyname": "Ares Capital Corporation"
+    },
+    {
+        "companyname": "Gree Electric Appliances, Inc. of Zhuhai"
+    },
+    {
+        "companyname": "DNB Bank ASA"
+    },
+    {
+        "companyname": "DocuSign, Inc."
+    },
+    {
+        "companyname": "Bosch Limited"
+    },
+    {
+        "companyname": "Dow Inc."
+    },
+    {
+        "companyname": "Hotai Motor Co.,Ltd."
+    },
+    {
+        "companyname": "CapitaLand Integrated Commercial Trust"
+    },
+    {
+        "companyname": "ICICI Lombard General Insurance Company Limited"
+    },
+    {
+        "companyname": "E Ink Holdings Inc."
+    },
+    {
+        "companyname": "Ooredoo Q.P.S.C."
+    },
+    {
+        "companyname": "Fidelity National Information Services, Inc."
+    },
+    {
+        "companyname": "Qatar National Bank (Q.P.S.C.)"
+    },
+    {
+        "companyname": "Grupo Aeroportuario del Pac\u00edfico, S.A.B. de C.V."
+    },
+    {
+        "companyname": "Saudi Electricity Company"
+    },
+    {
+        "companyname": "China State Construction Engineering Corporation Limited"
+    },
+    {
+        "companyname": "NHPC Limited"
+    },
+    {
+        "companyname": "Public Joint Stock Company Transneft"
+    },
+    {
+        "companyname": "China Mengniu Dairy Company Limited"
+    },
+    {
+        "companyname": "Japan Post Holdings Co., Ltd."
+    },
+    {
+        "companyname": "ICICI Prudential Life Insurance Company Limited"
+    },
+    {
+        "companyname": "Info Edge (India) Limited"
+    },
+    {
+        "companyname": "Digital Realty Trust, Inc."
+    },
+    {
+        "companyname": "Tencent Holdings Limited"
+    },
+    {
+        "companyname": "Northern Star Resources Limited"
+    },
+    {
+        "companyname": "SABIC Agri-Nutrients Company"
+    },
+    {
+        "companyname": "HealthEquity, Inc."
+    },
+    {
+        "companyname": "Zhejiang NHU Company Ltd."
+    },
+    {
+        "companyname": "Zhejiang China Commodities City Group Co., Ltd."
+    },
+    {
+        "companyname": "SBI Life Insurance Company Limited"
+    },
+    {
+        "companyname": "PAO NOVATEK"
+    },
+    {
+        "companyname": "Everbright Securities Company Limited"
+    },
+    {
+        "companyname": "CRRC Corporation Limited"
+    },
+    {
+        "companyname": "Industrial Bank Co., Ltd."
+    },
+    {
+        "companyname": "Sanan Optoelectronics Co.,Ltd"
+    },
+    {
+        "companyname": "China Northern Rare Earth (Group) High-Tech Co.,Ltd"
+    },
+    {
+        "companyname": "Powszechna Kasa Oszczednosci Bank Polski Sp\u00f3lka Akcyjna"
+    },
+    {
+        "companyname": "Qatar Islamic Bank (Q.P.S.C.)"
+    },
+    {
+        "companyname": "AVIC Shenyang Aircraft Company Limited"
+    },
+    {
+        "companyname": "CNPC Capital Company Limited"
+    },
+    {
+        "companyname": "Jindal Steel & Power Limited"
+    },
+    {
+        "companyname": "Bank of Hangzhou Co., Ltd."
+    },
+    {
+        "companyname": "Shree Cement Limited"
+    },
+    {
+        "companyname": "Ningbo Zhoushan Port Company Limited"
+    },
+    {
+        "companyname": "Sichuan Chuantou Energy Co.Ltd"
+    },
+    {
+        "companyname": "China CSSC Holdings Limited"
+    },
+    {
+        "companyname": "Inner Mongolia Baotou Steel Union Co., Ltd."
+    },
+    {
+        "companyname": "Citic Pacific Special Steel Group Co., Ltd"
+    },
+    {
+        "companyname": "Zhangzhou Pientzehuang Pharmaceutical., Ltd"
+    },
+    {
+        "companyname": "Hyatt Hotels Corporation"
+    },
+    {
+        "companyname": "UltraTech Cement Limited"
+    },
+    {
+        "companyname": "Allison Transmission Holdings, Inc."
+    },
+    {
+        "companyname": "Unisplendour Corporation Limited"
+    },
+    {
+        "companyname": "FinecoBank Banca Fineco S.p.A."
+    },
+    {
+        "companyname": "HDFC Asset Management Company Limited"
+    },
+    {
+        "companyname": "Public Joint-Stock Company PhosAgro"
+    },
+    {
+        "companyname": "Shengyi Technology Co.,Ltd."
+    },
+    {
+        "companyname": "ENN Natural Gas Co.,Ltd."
+    },
+    {
+        "companyname": "International Games System Co.,Ltd."
+    },
+    {
+        "companyname": "Shanghai Pharmaceuticals Holding Co., Ltd"
+    },
+    {
+        "companyname": "T&D Holdings, Inc."
+    },
+    {
+        "companyname": "Trent Limited"
+    },
+    {
+        "companyname": "Inner Mongolia Yili Industrial Group Co., Ltd."
+    },
+    {
+        "companyname": "XCMG Construction Machinery Co., Ltd."
+    },
+    {
+        "companyname": "Public Joint Stock Company \"Novolipetsk Steel\""
+    },
+    {
+        "companyname": "Moncler S.p.A."
+    },
+    {
+        "companyname": "Sunoco LP"
+    },
+    {
+        "companyname": "Zillow Group, Inc."
+    },
+    {
+        "companyname": "Bid Corporation Limited"
+    },
+    {
+        "companyname": "GF Securities Co., Ltd."
+    },
+    {
+        "companyname": "Meta Platforms, Inc."
+    },
+    {
+        "companyname": "Shanghai Rural Commercial Bank Co., Ltd."
+    },
+    {
+        "companyname": "SBI Cards and Payment Services Limited"
+    },
+    {
+        "companyname": "PT Chandra Asri Pacific Tbk"
+    },
+    {
+        "companyname": "Industries Qatar Q.P.S.C."
+    },
+    {
+        "companyname": "Partners Group Holding AG"
+    },
+    {
+        "companyname": "Bank Albilad"
+    },
+    {
+        "companyname": "B3 S.A. - Brasil, Bolsa, Balc\u00e3o"
+    },
+    {
+        "companyname": "China Shenhua Energy Company Limited"
+    },
+    {
+        "companyname": "Etihad Etisalat Company"
+    },
+    {
+        "companyname": "Western Alliance Bancorporation"
+    },
+    {
+        "companyname": "Shanghai Fosun Pharmaceutical (Group) Co., Ltd."
+    },
+    {
+        "companyname": "CapitaLand Investment Limited"
+    },
+    {
+        "companyname": "RBC Bearings Incorporated"
+    },
+    {
+        "companyname": "Prosus N.V."
+    },
+    {
+        "companyname": "CF Industries Holdings, Inc."
+    },
+    {
+        "companyname": "Shell plc"
+    },
+    {
+        "companyname": "Wens Foodstuff Group Co., Ltd."
+    },
+    {
+        "companyname": "REC Limited"
+    },
+    {
+        "companyname": "Indian Railway Finance Corporation Limited"
+    },
+    {
+        "companyname": "Giga Device Semiconductor Inc."
+    },
+    {
+        "companyname": "Shanghai Electric Group Co., Ltd."
+    },
+    {
+        "companyname": "Warner Bros. Discovery, Inc."
+    },
+    {
+        "companyname": "Akelius Residential Property AB (publ)"
+    },
+    {
+        "companyname": "TransDigm Group Incorporated"
+    },
+    {
+        "companyname": "ServiceNow, Inc."
+    },
+    {
+        "companyname": "Fidelity National Financial, Inc."
+    },
+    {
+        "companyname": "Polycab India Limited"
+    },
+    {
+        "companyname": "China Merchants Securities Co., Ltd."
+    },
+    {
+        "companyname": "Swire Properties Limited"
+    },
+    {
+        "companyname": "Fastighets AB Balder (publ)"
+    },
+    {
+        "companyname": "Daiichi Sankyo Company, Limited"
+    },
+    {
+        "companyname": "Industrial and Commercial Bank of China Limited"
+    },
+    {
+        "companyname": "Almarai Company"
+    },
+    {
+        "companyname": "Seven & i Holdings Co., Ltd."
+    },
+    {
+        "companyname": "Workday, Inc."
+    },
+    {
+        "companyname": "Hua Hong Semiconductor Limited"
+    },
+    {
+        "companyname": "GMR Airports Limited"
+    },
+    {
+        "companyname": "Advanced Micro-Fabrication Equipment Inc. China"
+    },
+    {
+        "companyname": "AECC Aviation Power Co.,Ltd"
+    },
+    {
+        "companyname": "Shenzhou International Group Holdings Limited"
+    },
+    {
+        "companyname": "CAR Group Limited"
+    },
+    {
+        "companyname": "Guosen Securities Co., Ltd."
+    },
+    {
+        "companyname": "Broadcom Inc."
+    },
+    {
+        "companyname": "Focus Media Information Technology Co., Ltd."
+    },
+    {
+        "companyname": "Rail Vikas Nigam Limited"
+    },
+    {
+        "companyname": "Solar Industries India Limited"
+    },
+    {
+        "companyname": "Palo Alto Networks, Inc."
+    },
+    {
+        "companyname": "Expedia Group, Inc."
+    },
+    {
+        "companyname": "COSCO SHIPPING Holdings Co., Ltd."
+    },
+    {
+        "companyname": "Air China Cargo Co., Ltd."
+    },
+    {
+        "companyname": "China Communications Construction Company Limited"
+    },
+    {
+        "companyname": "DLF Limited"
+    },
+    {
+        "companyname": "Foshan Haitian Flavouring and Food Company Ltd."
+    },
+    {
+        "companyname": "CMOC Group Limited"
+    },
+    {
+        "companyname": "Huadong Medicine Co., Ltd"
+    },
+    {
+        "companyname": "Hengli Petrochemical Co.,Ltd."
+    },
+    {
+        "companyname": "Rongsheng Petrochemical Co., Ltd."
+    },
+    {
+        "companyname": "Huaneng Lancang River Hydropower Inc."
+    },
+    {
+        "companyname": "WSP Global Inc."
+    },
+    {
+        "companyname": "Phillips 66"
+    },
+    {
+        "companyname": "Thai Beverage Public Company Limited"
+    },
+    {
+        "companyname": "Tesla, Inc."
+    },
+    {
+        "companyname": "Natera, Inc."
+    },
+    {
+        "companyname": "Postal Savings Bank of China Co., Ltd."
+    },
+    {
+        "companyname": "HubSpot, Inc."
+    },
+    {
+        "companyname": "Adani Ports and Special Economic Zone Limited"
+    },
+    {
+        "companyname": "Paramount Global"
+    },
+    {
+        "companyname": "Orion Oyj"
+    },
+    {
+        "companyname": "Daqin Railway Co., Ltd."
+    },
+    {
+        "companyname": "Rockchip Electronics Co., Ltd."
+    },
+    {
+        "companyname": "Mankind Pharma Limited"
+    },
+    {
+        "companyname": "Poly Developments and Holdings Group Co., Ltd."
+    },
+    {
+        "companyname": "Bank of Ningbo Co., Ltd."
+    },
+    {
+        "companyname": "Penumbra, Inc."
+    },
+    {
+        "companyname": "JSW Energy Limited"
+    },
+    {
+        "companyname": "Procore Technologies, Inc."
+    },
+    {
+        "companyname": "iFLYTEK CO.,LTD"
+    },
+    {
+        "companyname": "Guangdong Haid Group Co., Limited"
+    },
+    {
+        "companyname": "MonotaRO Co., Ltd."
+    },
+    {
+        "companyname": "Elm Company"
+    },
+    {
+        "companyname": "China Coal Energy Company Limited"
+    },
+    {
+        "companyname": "Brunello Cucinelli S.p.A."
+    },
+    {
+        "companyname": "Cheniere Energy Partners, L.P."
+    },
+    {
+        "companyname": "ZOZO, Inc."
+    },
+    {
+        "companyname": "China Merchants Shekou Industrial Zone Holdings Co., Ltd."
+    },
+    {
+        "companyname": "Shennan Circuit Company Limited"
+    },
+    {
+        "companyname": "Shaanxi Coal Industry Company Limited"
+    },
+    {
+        "companyname": "China Zheshang Bank Co., Ltd"
+    },
+    {
+        "companyname": "Banca Mediolanum S.p.A."
+    },
+    {
+        "companyname": "Bajaj Auto Limited"
+    },
+    {
+        "companyname": "Roblox Corporation"
+    },
+    {
+        "companyname": "Arista Networks Inc"
+    },
+    {
+        "companyname": "Veeva Systems Inc."
+    },
+    {
+        "companyname": "BWX Technologies, Inc."
+    },
+    {
+        "companyname": "Getlink SE"
+    },
+    {
+        "companyname": "LPL Financial Holdings Inc."
+    },
+    {
+        "companyname": "Banco Santander (Brasil) S.A."
+    },
+    {
+        "companyname": "lululemon athletica inc."
+    },
+    {
+        "companyname": "MercadoLibre, Inc."
+    },
+    {
+        "companyname": "Genpact Limited"
+    },
+    {
+        "companyname": "Xero Limited"
+    },
+    {
+        "companyname": "Brambles Limited"
+    },
+    {
+        "companyname": "East Money Information Co.,Ltd."
+    },
+    {
+        "companyname": "Sunny Optical Technology (Group) Company Limited"
+    },
+    {
+        "companyname": "Kinder Morgan, Inc."
+    },
+    {
+        "companyname": "ANTA Sports Products Limited"
+    },
+    {
+        "companyname": "Jonhon Optronic Technology Co., Ltd."
+    },
+    {
+        "companyname": "Bank of Jiangsu Co., Ltd."
+    },
+    {
+        "companyname": "Brookfield Infrastructure Partners L.P."
+    },
+    {
+        "companyname": "JD.com, Inc."
+    },
+    {
+        "companyname": "CaixaBank, S.A."
+    },
+    {
+        "companyname": "Indus Towers Limited"
+    },
+    {
+        "companyname": "Beijing Wantai Biological Pharmacy Enterprise Co., Ltd."
+    },
+    {
+        "companyname": "WuXi AppTec Co., Ltd."
+    },
+    {
+        "companyname": "Adani Power Limited"
+    },
+    {
+        "companyname": "InPost S.A."
+    },
+    {
+        "companyname": "Visa Inc."
+    },
+    {
+        "companyname": "Jio Financial Services Limited"
+    },
+    {
+        "companyname": "Chongqing Rural Commercial Bank Co., Ltd."
+    },
+    {
+        "companyname": "China Railway Group Limited"
+    },
+    {
+        "companyname": "EchoStar Corporation"
+    },
+    {
+        "companyname": "Founder Securities Co., Ltd."
+    },
+    {
+        "companyname": "Targa Resources Corp."
+    },
+    {
+        "companyname": "Franco-Nevada Corporation"
+    },
+    {
+        "companyname": "Ascendis Pharma A\/S"
+    },
+    {
+        "companyname": "Beijing-Shanghai High-Speed Railway Co., Ltd."
+    },
+    {
+        "companyname": "AGNC Investment Corp."
+    },
+    {
+        "companyname": "Japan Exchange Group, Inc."
+    },
+    {
+        "companyname": "Bajaj Finserv Ltd."
+    },
+    {
+        "companyname": "Alibaba Group Holding Limited"
+    },
+    {
+        "companyname": "Pandora A\/S"
+    },
+    {
+        "companyname": "Sartorius Stedim Biotech S.A."
+    },
+    {
+        "companyname": "Palantir Technologies Inc."
+    },
+    {
+        "companyname": "JAPAN POST BANK Co., Ltd."
+    },
+    {
+        "companyname": "EDP Renov\u00e1veis, S.A."
+    },
+    {
+        "companyname": "Ares Management Corporation"
+    },
+    {
+        "companyname": "Cenovus Energy Inc."
+    },
+    {
+        "companyname": "Goertek Inc."
+    },
+    {
+        "companyname": "Alinma Bank"
+    },
+    {
+        "companyname": "Citizens Financial Group, Inc."
+    },
+    {
+        "companyname": "Dixon Technologies (India) Limited"
+    },
+    {
+        "companyname": "Ubiquiti Inc."
+    },
+    {
+        "companyname": "Arabian Internet and Communication Services Company"
+    },
+    {
+        "companyname": "Avary Holding(Shenzhen)Co., Limited"
+    },
+    {
+        "companyname": "MongoDB, Inc."
+    },
+    {
+        "companyname": "Chaozhou Three-Circle (Group) Co.,Ltd."
+    },
+    {
+        "companyname": "Dollarama Inc."
+    },
+    {
+        "companyname": "Wix.com Ltd."
+    },
+    {
+        "companyname": "Varun Beverages Limited"
+    },
+    {
+        "companyname": "China Three Gorges Renewables (Group) Co.,Ltd."
+    },
+    {
+        "companyname": "NAURA Technology Group Co., Ltd."
+    },
+    {
+        "companyname": "AVIC Chengdu Aircraft Company Limited"
+    },
+    {
+        "companyname": "BioNTech SE"
+    },
+    {
+        "companyname": "Luxshare Precision Industry Co., Ltd."
+    },
+    {
+        "companyname": "Otsuka Holdings Co., Ltd."
+    },
+    {
+        "companyname": "ACWA Power Company"
+    },
+    {
+        "companyname": "Midea Group Co., Ltd."
+    },
+    {
+        "companyname": "Beijing Enlight Media Co., Ltd."
+    },
+    {
+        "companyname": "China Merchants Expressway Network & Technology Holdings Co.,Ltd."
+    },
+    {
+        "companyname": "Twilio Inc."
+    },
+    {
+        "companyname": "Satellite Chemical Co.,Ltd."
+    },
+    {
+        "companyname": "Muthoot Finance Limited"
+    },
+    {
+        "companyname": "Yihai Kerry Arawana Holdings Co., Ltd"
+    },
+    {
+        "companyname": "Tourmaline Oil Corp."
+    },
+    {
+        "companyname": "GFL Environmental Inc."
+    },
+    {
+        "companyname": "Zscaler, Inc."
+    },
+    {
+        "companyname": "Aptiv PLC"
+    },
+    {
+        "companyname": "Ganfeng Lithium Group Co., Ltd."
+    },
+    {
+        "companyname": "EVE Energy Co., Ltd."
+    },
+    {
+        "companyname": "Julius B\u00e4r Gruppe AG"
+    },
+    {
+        "companyname": "Bajaj Housing Finance Limited"
+    },
+    {
+        "companyname": "General Motors Company"
+    },
+    {
+        "companyname": "Chongqing Zhifei Biological Products Co., Ltd."
+    },
+    {
+        "companyname": "China Shipbuilding Industry Company Limited"
+    },
+    {
+        "companyname": "Jiangsu Yanghe Distillery Co., Ltd."
+    },
+    {
+        "companyname": "argenx SE"
+    },
+    {
+        "companyname": "CyberArk Software Ltd."
+    },
+    {
+        "companyname": "Aier Eye Hospital Group Co., Ltd."
+    },
+    {
+        "companyname": "Macrotech Developers Limited"
+    },
+    {
+        "companyname": "Generac Holdings Inc."
+    },
+    {
+        "companyname": "Suntory Beverage & Food Limited"
+    },
+    {
+        "companyname": "Sands China Ltd."
+    },
+    {
+        "companyname": "PT Dian Swastatika Sentosa Tbk"
+    },
+    {
+        "companyname": "Cloudflare, Inc."
+    },
+    {
+        "companyname": "China Longyuan Power Group Corporation Limited"
+    },
+    {
+        "companyname": "Hithink RoyalFlush Information Network Co., Ltd."
+    },
+    {
+        "companyname": "Wus Printed Circuit (Kunshan) Co., Ltd."
+    },
+    {
+        "companyname": "Block, Inc."
+    },
+    {
+        "companyname": "Shopify Inc."
+    },
+    {
+        "companyname": "360 Security Technology Inc."
+    },
+    {
+        "companyname": "Zalando SE"
+    },
+    {
+        "companyname": "Jiangsu Hengli Hydraulic Co.,Ltd"
+    },
+    {
+        "companyname": "AIA Group Limited"
+    },
+    {
+        "companyname": "H World Group Limited"
+    },
+    {
+        "companyname": "The Trade Desk, Inc."
+    },
+    {
+        "companyname": "Sungrow Power Supply Co., Ltd."
+    },
+    {
+        "companyname": "CNH Industrial N.V."
+    },
+    {
+        "companyname": "Rede D'Or S\u00e3o Luiz S.A."
+    },
+    {
+        "companyname": "Hangzhou Hikvision Digital Technology Co., Ltd."
+    },
+    {
+        "companyname": "Shenzhen Inovance Technology Co.,Ltd"
+    },
+    {
+        "companyname": "Dino Polska S.A."
+    },
+    {
+        "companyname": "ABN AMRO Bank N.V."
+    },
+    {
+        "companyname": "Coca-Cola Europacific Partners PLC"
+    },
+    {
+        "companyname": "Okta, Inc."
+    },
+    {
+        "companyname": "Ryan Specialty Holdings, Inc."
+    },
+    {
+        "companyname": "MakeMyTrip Limited"
+    },
+    {
+        "companyname": "Pure Storage, Inc."
+    },
+    {
+        "companyname": "Shenwan Hongyuan Group Co., Ltd."
+    },
+    {
+        "companyname": "Muyuan Foods Co., Ltd."
+    },
+    {
+        "companyname": "Eternal Limited"
+    },
+    {
+        "companyname": "LONGi Green Energy Technology Co., Ltd."
+    },
+    {
+        "companyname": "ENEOS Holdings, Inc."
+    },
+    {
+        "companyname": "Avenue Supermarts Limited"
+    },
+    {
+        "companyname": "Sompo Holdings, Inc."
+    },
+    {
+        "companyname": "Meituan"
+    },
+    {
+        "companyname": "BeiGene, Ltd."
+    },
+    {
+        "companyname": "Vipshop Holdings Limited"
+    },
+    {
+        "companyname": "Scentre Group"
+    },
+    {
+        "companyname": "Airbnb, Inc."
+    },
+    {
+        "companyname": "Jiangsu King's Luck Brewery Joint-Stock Co.,Ltd."
+    },
+    {
+        "companyname": "iSoftStone Information Technology (Group) Co., Ltd."
+    },
+    {
+        "companyname": "Xylem Inc."
+    },
+    {
+        "companyname": "Marathon Petroleum Corporation"
+    },
+    {
+        "companyname": "China Hongqiao Group Limited"
+    },
+    {
+        "companyname": "Nutanix, Inc."
+    },
+    {
+        "companyname": "Brixmor Property Group Inc."
+    },
+    {
+        "companyname": "Ningbo Tuopu Group Co.,Ltd."
+    },
+    {
+        "companyname": "Adyen N.V."
+    },
+    {
+        "companyname": "Range Intelligent Computing Technology Group Company Limited"
+    },
+    {
+        "companyname": "Doximity, Inc."
+    },
+    {
+        "companyname": "Moderna, Inc."
+    },
+    {
+        "companyname": "Element Fleet Management Corp."
+    },
+    {
+        "companyname": "International Consolidated Airlines Group S.A."
+    },
+    {
+        "companyname": "Hoshine Silicon Industry Co., Ltd."
+    },
+    {
+        "companyname": "Ambev S.A."
+    },
+    {
+        "companyname": "Datadog, Inc."
+    },
+    {
+        "companyname": "Aena S.M.E., S.A."
+    },
+    {
+        "companyname": "Will Semiconductor Co., Ltd."
+    },
+    {
+        "companyname": "IQVIA Holdings Inc."
+    },
+    {
+        "companyname": "MACOM Technology Solutions Holdings, Inc."
+    },
+    {
+        "companyname": "Pinterest, Inc."
+    },
+    {
+        "companyname": "Kakao Corp."
+    },
+    {
+        "companyname": "TMX Group Limited"
+    },
+    {
+        "companyname": "Delivery Hero SE"
+    },
+    {
+        "companyname": "Berry Global Group, Inc."
+    },
+    {
+        "companyname": "Innovent Biologics, Inc."
+    },
+    {
+        "companyname": "SoFi Technologies, Inc."
+    },
+    {
+        "companyname": "Kuang-Chi Technologies Co., Ltd."
+    },
+    {
+        "companyname": "AbbVie Inc."
+    },
+    {
+        "companyname": "WiseTech Global Limited"
+    },
+    {
+        "companyname": "HKT Trust and HKT Limited"
+    },
+    {
+        "companyname": "NEXON Co., Ltd."
+    },
+    {
+        "companyname": "Dr. Sulaiman Al Habib Medical Services Group Company"
+    },
+    {
+        "companyname": "Power Construction Corporation of China, Ltd"
+    },
+    {
+        "companyname": "Ningxia Baofeng Energy Group Co., Ltd."
+    },
+    {
+        "companyname": "Uber Technologies, Inc."
+    },
+    {
+        "companyname": "Rivian Automotive, Inc."
+    },
+    {
+        "companyname": "Zhejiang Sanhua Intelligent Controls Co.,Ltd"
+    },
+    {
+        "companyname": "Eoptolink Technology Inc., Ltd."
+    },
+    {
+        "companyname": "Diamondback Energy, Inc."
+    },
+    {
+        "companyname": "TransUnion"
+    },
+    {
+        "companyname": "Zhongji Innolight Co., Ltd."
+    },
+    {
+        "companyname": "Wise plc"
+    },
+    {
+        "companyname": "China National Nuclear Power Co., Ltd."
+    },
+    {
+        "companyname": "Duolingo, Inc."
+    },
+    {
+        "companyname": "News Corporation"
+    },
+    {
+        "companyname": "MPLX LP"
+    },
+    {
+        "companyname": "Dr. Ing. h.c. F. Porsche AG"
+    },
+    {
+        "companyname": "monday.com Ltd."
+    },
+    {
+        "companyname": "Zoetis Inc."
+    },
+    {
+        "companyname": "Kinsale Capital Group, Inc."
+    },
+    {
+        "companyname": "Taiwan Cooperative Financial Holding Co., Ltd."
+    },
+    {
+        "companyname": "Zoom Communications Inc."
+    },
+    {
+        "companyname": "Snap Inc."
+    },
+    {
+        "companyname": "Elastic N.V."
+    },
+    {
+        "companyname": "Gaming and Leisure Properties, Inc."
+    },
+    {
+        "companyname": "Spotify Technology S.A."
+    },
+    {
+        "companyname": "BB Seguridade Participa\u00e7\u00f5es S.A."
+    },
+    {
+        "companyname": "China Energy Engineering Corporation Limited"
+    },
+    {
+        "companyname": "Zhejiang Zheneng Electric Power Co., Ltd."
+    },
+    {
+        "companyname": "OSRAM Licht AG"
+    },
+    {
+        "companyname": "AppLovin Corporation"
+    },
+    {
+        "companyname": "GlobalFoundries Inc."
+    },
+    {
+        "companyname": "Murphy USA Inc."
+    },
+    {
+        "companyname": "Rexford Industrial Realty, Inc."
+    },
+    {
+        "companyname": "SGH Limited"
+    },
+    {
+        "companyname": "American Homes 4 Rent"
+    },
+    {
+        "companyname": "Allegion plc"
+    },
+    {
+        "companyname": "Jinko Solar Co., Ltd."
+    },
+    {
+        "companyname": "Unity Software Inc."
+    },
+    {
+        "companyname": "Burlington Stores, Inc."
+    },
+    {
+        "companyname": "DoorDash, Inc."
+    },
+    {
+        "companyname": "Dayforce Inc."
+    },
+    {
+        "companyname": "Keysight Technologies, Inc."
+    },
+    {
+        "companyname": "BJ's Wholesale Club Holdings, Inc."
+    },
+    {
+        "companyname": "FTAI Aviation Ltd."
+    },
+    {
+        "companyname": "Atlassian Corporation"
+    },
+    {
+        "companyname": "Paycom Software, Inc."
+    },
+    {
+        "companyname": "Paylocity Holding Corporation"
+    },
+    {
+        "companyname": "Smoore International Holdings Limited"
+    },
+    {
+        "companyname": "Wiwynn Corporation"
+    },
+    {
+        "companyname": "Synchrony Financial"
+    },
+    {
+        "companyname": "Medpace Holdings, Inc."
+    },
+    {
+        "companyname": "Beijing Kingsoft Office Software, Inc."
+    },
+    {
+        "companyname": "GoDaddy Inc."
+    },
+    {
+        "companyname": "IMCD N.V."
+    },
+    {
+        "companyname": "Dawning Information Industry Co., Ltd."
+    },
+    {
+        "companyname": "Floor & Decor Holdings, Inc."
+    },
+    {
+        "companyname": "Performance Food Group Company"
+    },
+    {
+        "companyname": "Public Joint Stock Company Polyus"
+    },
+    {
+        "companyname": "Chewy, Inc."
+    },
+    {
+        "companyname": "South32 Limited"
+    },
+    {
+        "companyname": "TopBuild Corp."
+    },
+    {
+        "companyname": "Hewlett Packard Enterprise Company"
+    },
+    {
+        "companyname": "Snowflake Inc."
+    },
+    {
+        "companyname": "Cellnex Telecom, S.A."
+    },
+    {
+        "companyname": "Talen Energy Corporation"
+    },
+    {
+        "companyname": "Antero Midstream Corporation"
+    },
+    {
+        "companyname": "Confluent, Inc."
+    },
+    {
+        "companyname": "Robinhood Markets, Inc."
+    },
+    {
+        "companyname": "CGN Power Co., Ltd."
+    },
+    {
+        "companyname": "Restaurant Brands International Limited Partnership"
+    },
+    {
+        "companyname": "Ferrari N.V."
+    },
+    {
+        "companyname": "Seres Group Co.,Ltd"
+    },
+    {
+        "companyname": "Amundi S.A."
+    },
+    {
+        "companyname": "Lens Technology Co., Ltd."
+    },
+    {
+        "companyname": "CK Asset Holdings Limited"
+    },
+    {
+        "companyname": "Adani Energy Solutions Limited"
+    },
+    {
+        "companyname": "FirstService Corporation"
+    },
+    {
+        "companyname": "Evolution AB (publ)"
+    },
+    {
+        "companyname": "Infrastrutture Wireless Italiane S.p.A."
+    },
+    {
+        "companyname": "GitLab Inc."
+    },
+    {
+        "companyname": "Swiggy Limited"
+    },
+    {
+        "companyname": "Bilibili Inc."
+    },
+    {
+        "companyname": "Shanghai United Imaging Healthcare Co., Ltd."
+    },
+    {
+        "companyname": "Samsara Inc."
+    },
+    {
+        "companyname": "China Tower Corporation Limited"
+    },
+    {
+        "companyname": "Toast, Inc."
+    },
+    {
+        "companyname": "NIO Inc."
+    },
+    {
+        "companyname": "EQT AB (publ)"
+    },
+    {
+        "companyname": "Adani Green Energy Limited"
+    },
+    {
+        "companyname": "Albertsons Companies, Inc."
+    },
+    {
+        "companyname": "Fortive Corporation"
+    },
+    {
+        "companyname": "Yum China Holdings, Inc."
+    },
+    {
+        "companyname": "Corteva, Inc."
+    },
+    {
+        "companyname": "Xiaomi Corporation"
+    },
+    {
+        "companyname": "Permian Resources Corporation"
+    },
+    {
+        "companyname": "Uniper SE"
+    },
+    {
+        "companyname": "US Foods Holding Corp."
+    },
+    {
+        "companyname": "Contemporary Amperex Technology Co., Limited"
+    },
+    {
+        "companyname": "VAT Group AG"
+    },
+    {
+        "companyname": "Gulf Energy Development Public Company Limited"
+    },
+    {
+        "companyname": "S.F. Holding Co., Ltd."
+    },
+    {
+        "companyname": "Alcoa Corporation"
+    },
+    {
+        "companyname": "Coinbase Global, Inc."
+    },
+    {
+        "companyname": "Avantor, Inc."
+    },
+    {
+        "companyname": "Essity AB (publ)"
+    },
+    {
+        "companyname": "ZTO Express (Cayman) Inc."
+    },
+    {
+        "companyname": "CSC Financial Co., Ltd."
+    },
+    {
+        "companyname": "Nu Holdings Ltd."
+    },
+    {
+        "companyname": "Anker Innovations Limited"
+    },
+    {
+        "companyname": "Invitation Homes Inc."
+    },
+    {
+        "companyname": "Howmet Aerospace Inc."
+    },
+    {
+        "companyname": "Epiroc AB (publ)"
+    },
+    {
+        "companyname": "CrowdStrike Holdings, Inc."
+    },
+    {
+        "companyname": "Carvana Co."
+    },
+    {
+        "companyname": "Aurora Innovation, Inc."
+    },
+    {
+        "companyname": "Baker Hughes Company"
+    },
+    {
+        "companyname": "Sea Limited"
+    },
+    {
+        "companyname": "VICI Properties Inc."
+    },
+    {
+        "companyname": "Eastroc Beverage(Group) Co., Ltd."
+    },
+    {
+        "companyname": "WuXi Biologics (Cayman) Inc."
+    },
+    {
+        "companyname": "Lingyi iTech (Guangdong) Company"
+    },
+    {
+        "companyname": "Rocket Lab USA, Inc."
+    },
+    {
+        "companyname": "Cambricon Technologies Corporation Limited"
+    },
+    {
+        "companyname": "Ningbo Deye Technology Group Co., Ltd."
+    },
+    {
+        "companyname": "Jiangsu Eastern Shenghong Co.,Ltd."
+    },
+    {
+        "companyname": "APi Group Corporation"
+    },
+    {
+        "companyname": "Dutch Bros Inc."
+    },
+    {
+        "companyname": "DWS Group GmbH & Co. KGaA"
+    },
+    {
+        "companyname": "nVent Electric plc"
+    },
+    {
+        "companyname": "Hims & Hers Health, Inc."
+    },
+    {
+        "companyname": "Equitable Holdings, Inc."
+    },
+    {
+        "companyname": "Fox Corporation"
+    },
+    {
+        "companyname": "Shenzhen Transsion Holdings Co., Ltd."
+    },
+    {
+        "companyname": "JD Logistics, Inc."
+    },
+    {
+        "companyname": "Mazagon Dock Shipbuilders Limited"
+    },
+    {
+        "companyname": "Foxconn Industrial Internet Co., Ltd."
+    },
+    {
+        "companyname": "Tencent Music Entertainment Group"
+    },
+    {
+        "companyname": "Goneo Group Co., Ltd."
+    },
+    {
+        "companyname": "Siemens Healthineers AG"
+    },
+    {
+        "companyname": "Kuaishou Technology"
+    },
+    {
+        "companyname": "Wyndham Hotels & Resorts, Inc."
+    },
+    {
+        "companyname": "Full Truck Alliance Co. Ltd."
+    },
+    {
+        "companyname": "Luckin Coffee Inc."
+    },
+    {
+        "companyname": "PDD Holdings Inc."
+    },
+    {
+        "companyname": "Traton SE"
+    },
+    {
+        "companyname": "Vertiv Holdings Co"
+    },
+    {
+        "companyname": "Haidilao International Holding Ltd."
+    },
+    {
+        "companyname": "PT Pantai Indah Kapuk Dua Tbk"
+    },
+    {
+        "companyname": "Daimler Truck Holding AG"
+    },
+    {
+        "companyname": "Hansoh Pharmaceutical Group Company Limited"
+    },
+    {
+        "companyname": "Futu Holdings Limited"
+    },
+    {
+        "companyname": "Grab Holdings Limited"
+    },
+    {
+        "companyname": "Kioxia Holdings Corporation"
+    },
+    {
+        "companyname": "Joint Stock Company Kaspi.kz"
+    },
+    {
+        "companyname": "Siemens Energy AG"
+    },
+    {
+        "companyname": "Budweiser Brewing Company APAC Limited"
+    },
+    {
+        "companyname": "Dynatrace, Inc."
+    },
+    {
+        "companyname": "BellRing Brands, Inc."
+    },
+    {
+        "companyname": "Empyrean Technology Co., Ltd."
+    },
+    {
+        "companyname": "DraftKings Inc."
+    },
+    {
+        "companyname": "Hygon Information Technology Co., Ltd."
+    },
+    {
+        "companyname": "PTT Oil and Retail Business Public Company Limited"
+    },
+    {
+        "companyname": "JDE Peet's N.V."
+    },
+    {
+        "companyname": "Akeso, Inc."
+    },
+    {
+        "companyname": "Credo Technology Group Holding Ltd"
+    },
+    {
+        "companyname": "KE Holdings Inc."
+    },
+    {
+        "companyname": "Arm Holdings plc"
+    },
+    {
+        "companyname": "Royalty Pharma plc"
+    },
+    {
+        "companyname": "Laopu Gold Co., Ltd."
+    },
+    {
+        "companyname": "Li Auto Inc."
+    },
+    {
+        "companyname": "Vantage Towers AG"
+    },
+    {
+        "companyname": "XPeng Inc."
+    },
+    {
+        "companyname": "China Resources Mixc Lifestyle Services Limited"
+    },
+    {
+        "companyname": "JD Health International Inc."
+    },
+    {
+        "companyname": "Kyndryl Holdings, Inc."
+    },
+    {
+        "companyname": "Huali Industrial Group Company Limited"
+    },
+    {
+        "companyname": "Pop Mart International Group Limited"
+    },
+    {
+        "companyname": "Affirm Holdings, Inc."
+    },
+    {
+        "companyname": "CTP N.V."
+    },
+    {
+        "companyname": "Montage Technology Co., Ltd."
+    },
+    {
+        "companyname": "Coupang, Inc."
+    },
+    {
+        "companyname": "Brookfield Wealth Solutions Ltd."
+    },
+    {
+        "companyname": "DT Midstream, Inc."
+    },
+    {
+        "companyname": "Blue Owl Capital Inc."
+    },
+    {
+        "companyname": "Haleon plc"
+    },
+    {
+        "companyname": "DiDi Global Inc."
+    },
+    {
+        "companyname": "Universal Music Group N.V."
+    },
+    {
+        "companyname": "On Holding AG"
+    },
+    {
+        "companyname": "Mobileye Global Inc."
+    },
+    {
+        "companyname": "Giant Biogene Holding Co., Ltd."
+    },
+    {
+        "companyname": "GE HealthCare Technologies Inc."
+    }
+]

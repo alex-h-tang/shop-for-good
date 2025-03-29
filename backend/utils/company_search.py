@@ -7,6 +7,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+client = OpenAI(
+    api_key=os.getenv("OPENAI_API_KEY"),
+)
+
+
 def company_search(product):
     return get_esg(fuzzy_search(find_parent_company(product).output[0].content[0].text)[0])
 
@@ -40,12 +45,9 @@ def get_esg(company):
 
 
 if __name__ == "__main__":
-    client = OpenAI(
-        api_key=os.getenv("OPENAI_API_KEY"),
-    )
 
     # load company data
-    companies_data = json.load(open('backend/companies.json', 'r'))
+    companies_data = json.load(open('backend/utils/companies.json', 'r'))
     
     # testing
     response = find_parent_company("Pantene")

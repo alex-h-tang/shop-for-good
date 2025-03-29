@@ -5,3 +5,4 @@ supabase
 selenium
 fuzzywuzzy
 openai
+python-Levenshtein

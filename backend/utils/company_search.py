@@ -7,6 +7,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+def company_search(product):
+    return get_esg(fuzzy_search(find_parent_company(product).output[0].content[0].text)[0])
 
 def find_parent_company(company):
     response = client.responses.create(

@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from scraper.amazon import scrape_amazon, parse_amazon_data
 from fuzzywuzzy import fuzz
 from init_db import process
+import requests
 
 load_dotenv()
 
@@ -33,6 +34,14 @@ def search(keyword: str = Query(..., min_length=1)):
     if found: return found
 
     return process(keyword, supabase)
+
+@app.get("/image")
+def get_image(keyword: str = Query(..., max_length=1)):
+    url = f"https://serpapi.com/search.json?q={keyword}&engine=google_images&ijn=0v"
+    
+    r = requests.get(url)
+    
+    return r.json()["images_results"][0]["original"] if r.status_code == 200 else None
 
 def fuzzy(keyword):
     # query the searched table for all names

@@ -17,5 +17,13 @@ export async function search(keyword: string): Promise<any> {
     }
 }
 
+export async function getImage(keyword: string): Promise<any> {
+    const response = await fetch(`${API_URL}/image?keyword=${encodeURIComponent(keyword)}`);
+
+    const data = await response.json();
+    // console.log(data);
+    return data;
+}
+
 
 

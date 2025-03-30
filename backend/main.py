@@ -47,7 +47,7 @@ def search(keyword: str = Query(..., min_length=1)):
     return process(keyword, supabase)
 
 @app.get("/image")
-def get_image(keyword: str = Query(..., max_length=1)):
+def get_image(keyword: str = Query(..., min_length=1)):
     params = {
     "q": f"{keyword} non branded",
     "engine": "google_images",

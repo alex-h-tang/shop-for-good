@@ -20,12 +20,13 @@ import { IconSymbol } from '@/components/ui/IconSymbol';
 import { useRouter } from 'expo-router';
 
 import { filterAndSortResults } from '@/hooks/useFilter';
-import { search } from '@/services/apiService';
+import { search, getImage } from '@/services/apiService';
 
 export default function EcoFriendlyAlternativesScreen() {
   // Hardcoded example product name.
   const { item } = useLocalSearchParams<{ item: string }>();
   const [results, setResults] = useState<any[]>([]);
+  const [img, setImg] = useState<string>();
   const router = useRouter();
 
   useEffect(() => {
@@ -35,6 +36,10 @@ export default function EcoFriendlyAlternativesScreen() {
       const filteredData = filterAndSortResults(data); // Sort and filter results
       setResults(filteredData);
       console.log(JSON.stringify(filteredData, null, 2));
+
+      const image = await getImage(item);
+      console.log(image);
+      setImg(image);
     }
 
     fetchData();
@@ -61,9 +66,9 @@ export default function EcoFriendlyAlternativesScreen() {
 
 
         <View style={{ width: '100%', alignItems: 'center' }}>
-          <Image
-            source={require('@/assets/images/eggs.png')}
-            style={[styles.productImage, { marginLeft: 'auto', marginRight: 'auto' }]}
+          <img
+            src={img}
+            style={styles.productImage}
           />
         </View>
 
@@ -171,10 +176,10 @@ const styles = StyleSheet.create({
 
   // Product Image
   productImage: {
-    width: 400,
-    height: 250,
+    width: 300,
+    height: '100%',
     resizeMode: 'contain',
-    marginBottom: 16,
+    padding: 25,
   },
 
   // Alternatives Title

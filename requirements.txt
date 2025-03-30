@@ -6,3 +6,4 @@ selenium
 fuzzywuzzy
 openai
 python-Levenshtein
+serpapi

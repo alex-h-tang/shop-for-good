@@ -20,7 +20,7 @@ def parse_amazon_data(json_data):
             "name": product.get("name"),
             "price": product.get("price"),
             "image": product.get("image"),
-            "url": product.get("url")
+            "url": product.get("url").split("/ref")[0]
         })
     
     return parsed_products

@@ -11,7 +11,7 @@
    npm install
    ```
    
-2. See Google doc for .env variables, PLACE .ENV IN /BACKEND 
+2. See Google doc for .env variables, **PLACE .ENV IN /BACKEND**
 
 3. Start the frontend
 
@@ -25,7 +25,7 @@
     pip install -r requirements.txt
    ```
 
-5. Start the backend
+5. Start the backend **IN NEW TERMINAL**
 
    ```bash
     cd backend

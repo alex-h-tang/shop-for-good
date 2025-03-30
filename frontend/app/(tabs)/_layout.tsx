@@ -15,7 +15,7 @@ export default function TabLayout() {
       }}
     >
       <Tabs.Screen
-        name="input"
+        name="index"
         options={{
           title: 'Input',
           tabBarIcon: ({ color, size }) => (
@@ -41,6 +41,16 @@ export default function TabLayout() {
           ),
         }}
       />
+      <Tabs.Screen
+          name="details"
+          options={{
+            title: 'Details',
+            tabBarIcon: ({ color }) => (
+              <Ionicons name="search-outline" size={28} color = {color}/>
+            ),
+          }}
+      />
+
     </Tabs>
   );
 }

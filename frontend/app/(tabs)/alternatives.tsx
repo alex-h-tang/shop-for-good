@@ -14,9 +14,14 @@ import { Collapsible } from '@/components/Collapsible';
 import { ExternalLink } from '@/components/ExternalLink';
 import { IconSymbol } from '@/components/ui/IconSymbol';
 
+import { useRouter } from 'expo-router';
+
 export default function EcoFriendlyAlternativesScreen() {
   // Hardcoded example product name.
   const productName = '12 Pack Carton of Eggs';
+
+  const router = useRouter();
+
 
   return (
     <ScrollView 
@@ -57,7 +62,7 @@ export default function EcoFriendlyAlternativesScreen() {
             <ThemedText style={[styles.brandScore, { color: '#000'}]}>
               ESG Score: 85
             </ThemedText>
-            <TouchableOpacity style={styles.viewButton} onPress={() => {}}>
+            <TouchableOpacity style={styles.viewButton} onPress={() => router.push('/details?brand=Brand1')}>
               <ThemedText style={[styles.viewButtonText, { color: '#000'}]}>
                 View
               </ThemedText>
@@ -76,7 +81,7 @@ export default function EcoFriendlyAlternativesScreen() {
             <ThemedText style={[styles.brandScore, { color: '#000'}]}>
               ESG Score: 90
             </ThemedText>
-            <TouchableOpacity style={styles.viewButton} onPress={() => {}}>
+            <TouchableOpacity style={styles.viewButton} onPress={() => router.push('/details?brand=Brand2')}>
               <ThemedText style={[styles.viewButtonText, { color: '#000'}]}>
                 View
               </ThemedText>
@@ -95,7 +100,7 @@ export default function EcoFriendlyAlternativesScreen() {
             <ThemedText style={[styles.brandScore, { color: '#000'}]}>
               ESG Score: 88
             </ThemedText>
-            <TouchableOpacity style={styles.viewButton} onPress={() => {}}>
+            <TouchableOpacity style={styles.viewButton} onPress={() => router.push('/details?brand=Brand3')}>
               <ThemedText style={[styles.viewButtonText, { color: '#000'}]}>
                 View
               </ThemedText>
@@ -168,7 +173,7 @@ const styles = StyleSheet.create({
     // aspectRatio: 1,   
     flexBasis: '50%',          // each box tries ~30% width on wide screens
     minWidth: 200,             // ensures it's not too narrow on mobile
-    maxWidth: 500,             // optional: to prevent super-wide boxes
+    maxWidth: 400,             // optional: to prevent super-wide boxes
 
     alignItems: 'center',
     justifyContent: 'flex-start',

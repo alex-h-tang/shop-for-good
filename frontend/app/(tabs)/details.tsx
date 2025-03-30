@@ -1,51 +1,222 @@
 import React from 'react';
-import { View, Text, StyleSheet, FlatList } from 'react-native';
+import {
+  View,
+  Text,
+  StyleSheet,
+  Image,
+  TouchableOpacity,
+  ScrollView,
+} from 'react-native';
+// For a star shape, you can import an SVG or a star image:
+import { useRouter, useLocalSearchParams } from 'expo-router';
 
 export default function DetailsScreen() {
-  // Dummy product details and scoring
-  const product = 'Apples';
-  const stats = { quality: 8.5, price: 7.0, popularity: 9.0 };
-  const alternatives = [
-    { name: 'Apples Alternative 1', score: 7.5 },
-    { name: 'Apples Alternative 2', score: 8.0 },
-    { name: 'Apples Alternative 3', score: 7.0 },
+  const router = useRouter(); // or navigation = useNavigation();
+  const { brand } = useLocalSearchParams<{ brand: string }>();
+
+  // Hard-coded placeholders for demonstration
+  const brandName = 'Brand 1';
+  const price = '$25.50';
+  const esgRating = '68.70';
+  const description =
+    'Setting the bar as one of the sturdiest designs in its class, Brand 1 is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.';
+  const extendedStats = [
+    { label: 'Overall Transparency Score', value: '89.20' },
+    { label: 'Environmental Pillar Score', value: '80.62' },
+    { label: 'Social Pillar Score', value: '66.95' },
+    { label: 'Governance Pillar Score', value: '65.85' },
+    { label: 'Overall Score Global Rank', value: '1756/17154' },
+    { label: 'Overall Industry Rank', value: '28/151' },
+    { label: 'Overall Region Rank', value: '434/3509' },
   ];
 
   return (
-    <View style={styles.container}>
-      <Text style={styles.productTitle}>{product}</Text>
-      <View style={styles.statsContainer}>
-        <Text style={styles.statText}>Quality: {stats.quality}</Text>
-        <Text style={styles.statText}>Price: {stats.price}</Text>
-        <Text style={styles.statText}>Popularity: {stats.popularity}</Text>
-      </View>
-      <Text style={styles.alternativesTitle}>Alternatives</Text>
-      <FlatList
-        data={alternatives}
-        keyExtractor={(item, index) => index.toString()}
-        renderItem={({ item }) => (
-          <View style={styles.alternativeItem}>
-            <Text style={styles.altName}>{item.name}</Text>
-            <Text style={styles.altScore}>Score: {item.score}</Text>
+    <ScrollView style={styles.container}>
+
+      {/* BACK BUTTON */}
+      <TouchableOpacity
+        style={styles.backButton}
+        onPress={() => router.push('/alternatives')}
+        // onPress={() => router.back()} // or navigation.goBack()
+      >
+        <Text style={styles.backButtonText}>{'<'} Back</Text>
+      </TouchableOpacity>
+
+      <View style={styles.contentWrapper}>
+
+        {/* LEFT SIDE: PRODUCT IMAGE (furniture in Figma) */}
+        <View style={styles.imageContainer}>
+          {/* Replace with your actual local image or remote URI */}
+          <Image
+            source={require('@/assets/images/eggs.png')} // e.g., placeholder
+            style={styles.mainImage}
+          />
+        </View>
+
+        {/* RIGHT SIDE: PRODUCT DETAILS */}
+        <View style={styles.detailsContainer}>
+
+          {/* Brand Name */}
+          <Text style={styles.brandName}>{brandName}</Text>
+          {/* Price */}
+          <Text style={styles.priceText}>Price: {price}</Text>
+          {/* Rating Row */}
+          <View style={styles.ratingRow}>
+
+            {/* "Overall ESG Rating" Label */}
+            <Text style={styles.esgLabel}>Overall ESG Rating: [InputRating] </Text>
           </View>
-        )}
-      />
-    </View>
+
+          {/* Description */}
+          <Text style={styles.description}>{description}</Text>
+
+          {/* Beige Card for Stats */}
+          <View style={styles.statsCard}>
+            {extendedStats.map((item) => (
+              <Text style={styles.statLine} key={item.label}>
+                <Text style={{ fontWeight: 'bold' }}>{item.label}:</Text> {item.value}
+              </Text>
+            ))}
+          </View>
+
+          {/* "Where to Buy" Button */}
+          <TouchableOpacity style={styles.buyButton}>
+            <Text style={styles.buyButtonText}>Where to Buy</Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+
+    </ScrollView>
   );
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, padding: 16, backgroundColor: '#fff' },
-  productTitle: { fontSize: 28, fontWeight: 'bold', marginBottom: 16 },
-  statsContainer: { marginBottom: 24 },
-  statText: { fontSize: 18, marginVertical: 4 },
-  alternativesTitle: { fontSize: 22, fontWeight: 'bold', marginBottom: 12 },
-  alternativeItem: {
-    padding: 12,
-    backgroundColor: '#f2f2f2',
-    marginBottom: 8,
+  // Scrollable container
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+  },
+
+  // Position the back button top-left
+  backButton: {
+    position: 'absolute',
+    top: 40,
+    left: 20,
+    padding: 8,
+    zIndex: 999,
+    backgroundColor: 'rgba(0,0,0,0.1)',
     borderRadius: 4,
   },
-  altName: { fontSize: 18 },
-  altScore: { fontSize: 16 },
+  backButtonText: {
+    fontSize: 16,
+    color: '#000',
+  },
+
+  // The main wrapper (row with image on left, details on right)
+  contentWrapper: {
+    flexDirection: 'row',
+    paddingTop: 100, // so it doesn't clash with back button
+    paddingHorizontal: 16,
+    paddingBottom: 40,
+  },
+
+  // LEFT: Container for the main product image
+  imageContainer: {
+    flex: 1, // half the screen if there's room
+    alignItems: 'center',
+    justifyContent: 'center',
+    padding: 8,
+  },
+  mainImage: {
+    width: '100%',
+    height: 300,
+    resizeMode: 'contain',
+    borderRadius: 8,
+  },
+
+  // RIGHT: The textual details
+  detailsContainer: {
+    flex: 1, // other half
+    paddingLeft: 16,
+  },
+  brandName: {
+    fontSize: 32,
+    fontWeight: 'bold',
+    color: '#FFA500',
+    marginBottom: 8,
+  },
+  priceText: {
+    fontSize: 20,
+    color: '#9f9f9f',
+    marginBottom: 16,
+  },
+
+  // The row with star + rating label
+  ratingRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: 16,
+  },
+  starWrapper: {
+    width: 79,
+    height: 76,
+    marginRight: 16,
+    justifyContent: 'center',
+    alignItems: 'center',
+    position: 'relative',
+  },
+  // A star background image (like a star shape)
+  starBackground: {
+    position: 'absolute',
+    width: 79,
+    height: 76,
+    resizeMode: 'contain',
+  },
+  starNumber: {
+    zIndex: 1,
+    fontSize: 13,
+    color: '#000',
+    fontWeight: '600',
+  },
+  esgLabel: {
+    fontSize: 13,
+    color: '#9f9f9f',
+  },
+
+  description: {
+    fontSize: 14,
+    color: '#000',
+    marginBottom: 16,
+    lineHeight: 20,
+  },
+
+  // The "Beige card"
+  statsCard: {
+    width: '100%',
+    minHeight: 100,
+    backgroundColor: '#f9f1e7',
+    borderRadius: 5,
+    padding: 12,
+    marginBottom: 16,
+  },
+  statLine: {
+    fontSize: 13,
+    marginBottom: 4,
+  },
+
+  // "Where to Buy" button with black border, rounded corners
+  buyButton: {
+    width: 220,
+    height: 50,
+    borderWidth: 1,
+    borderColor: '#000',
+    borderRadius: 15,
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: '#FFA500',
+  },
+  buyButtonText: {
+    fontSize: 16,
+    color: '#000',
+  },
 });

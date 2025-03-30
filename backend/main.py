@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 from scraper.amazon import scrape_amazon, parse_amazon_data
 from fuzzywuzzy import fuzz
 from init_db import process
+from serpapi import search as search_serpapi
 
 load_dotenv()
 
@@ -21,6 +22,8 @@ allow_headers=["*"], # Allows all headers
 
 supabase_url = os.getenv("SUPABASE_URL")
 supabase_key = os.getenv("SUPABASE_KEY")
+
+serp_api = os.getenv("SERP_API_KEY")
 
 if not supabase_url or not supabase_key:
     raise ValueError("Missing Supabase environment variables")
@@ -42,6 +45,20 @@ def search(keyword: str = Query(..., min_length=1)):
     if found: return found
 
     return process(keyword, supabase)
+
+@app.get("/image")
+def get_image(keyword: str = Query(..., max_length=1)):
+    params = {
+    "q": f"{keyword} non branded",
+    "engine": "google_images",
+    "ijn": "0",
+    "api_key": serp_api
+    }
+    
+    s = search_serpapi(params)
+    r = s.as_dict()
+    
+    return r["images_results"][0]["original"]
 
 def fuzzy(keyword):
     # query the searched table for all names
@@ -65,5 +82,3 @@ def fuzzy(keyword):
         return products.data
     else:
         return None
-
-# print(search("batteries"))

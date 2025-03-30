@@ -60,6 +60,8 @@ def process(product, client):
         i["search_term"] = product
                 
     client.table("products").insert(combined).execute()
+    temp = {"name": product}
+    client.table("searched").insert(temp).execute()
     return combined
     
 if __name__ == "__main__":

@@ -11,16 +11,15 @@ client = OpenAI(
     api_key=os.getenv("OPENAI_API_KEY"),
 )
 
-
 def company_search(product):
-    return get_esg(fuzzy_search(find_parent_company(product).output[0].content[0].text)[0])
+    return get_esg(fuzzy_search(find_parent_company(product))[0])
 
 def find_parent_company(company):
     response = client.responses.create(
         model="gpt-4o",
         input=f"Find me the parent company for {company}, output so that the name is easily parsed, ideally one phrase. If {company} has no parent company, just return the name of the company."
     )
-    return response
+    return response.output[0].content[0].text
 
 # search for closest company match
 def fuzzy_search(input, data):
@@ -52,7 +51,7 @@ if __name__ == "__main__":
     # testing
     response = find_parent_company("Pantene")
     print(response)
-    search_word = response.output[0].content[0].text
+    search_word = response
     result = fuzzy_search(search_word, companies_data)
     print(f"Best match for '{search_word}': {result[0]} (Score: {result[1]})")
     print(get_esg(result[0]))

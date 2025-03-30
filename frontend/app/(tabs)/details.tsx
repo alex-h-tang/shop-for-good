@@ -7,11 +7,10 @@ import {
   TouchableOpacity,
   ScrollView,
 } from 'react-native';
-// For a star shape, you can import an SVG or a star image:
 import { useRouter, useLocalSearchParams } from 'expo-router';
 
 export default function DetailsScreen() {
-  const router = useRouter(); // or navigation = useNavigation();
+  const router = useRouter(); 
   const { brand } = useLocalSearchParams<{ brand: string }>();
 
   // Hard-coded placeholders for demonstration
@@ -44,9 +43,9 @@ export default function DetailsScreen() {
 
       <View style={styles.contentWrapper}>
 
-        {/* LEFT SIDE: PRODUCT IMAGE (furniture in Figma) */}
+        
         <View style={styles.imageContainer}>
-          {/* Replace with your actual local image or remote URI */}
+          
           <Image
             source={require('@/assets/images/eggs.png')} // e.g., placeholder
             style={styles.mainImage}
@@ -63,14 +62,13 @@ export default function DetailsScreen() {
           {/* Rating Row */}
           <View style={styles.ratingRow}>
 
-            {/* "Overall ESG Rating" Label */}
+            
             <Text style={styles.esgLabel}>Overall ESG Rating: [InputRating] </Text>
           </View>
 
-          {/* Description */}
           <Text style={styles.description}>{description}</Text>
 
-          {/* Beige Card for Stats */}
+          
           <View style={styles.statsCard}>
             {extendedStats.map((item) => (
               <Text style={styles.statLine} key={item.label}>
@@ -79,7 +77,7 @@ export default function DetailsScreen() {
             ))}
           </View>
 
-          {/* "Where to Buy" Button */}
+          
           <TouchableOpacity style={styles.buyButton}>
             <Text style={styles.buyButtonText}>Where to Buy</Text>
           </TouchableOpacity>
@@ -91,13 +89,11 @@ export default function DetailsScreen() {
 }
 
 const styles = StyleSheet.create({
-  // Scrollable container
   container: {
     flex: 1,
     backgroundColor: '#fff',
   },
 
-  // Position the back button top-left
   backButton: {
     position: 'absolute',
     top: 40,
@@ -112,17 +108,15 @@ const styles = StyleSheet.create({
     color: '#000',
   },
 
-  // The main wrapper (row with image on left, details on right)
   contentWrapper: {
     flexDirection: 'row',
-    paddingTop: 100, // so it doesn't clash with back button
+    paddingTop: 100, 
     paddingHorizontal: 16,
     paddingBottom: 40,
   },
 
-  // LEFT: Container for the main product image
   imageContainer: {
-    flex: 1, // half the screen if there's room
+    flex: 1, 
     alignItems: 'center',
     justifyContent: 'center',
     padding: 8,
@@ -134,9 +128,8 @@ const styles = StyleSheet.create({
     borderRadius: 8,
   },
 
-  // RIGHT: The textual details
   detailsContainer: {
-    flex: 1, // other half
+    flex: 1, 
     paddingLeft: 16,
   },
   brandName: {
@@ -151,7 +144,6 @@ const styles = StyleSheet.create({
     marginBottom: 16,
   },
 
-  // The row with star + rating label
   ratingRow: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -165,7 +157,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     position: 'relative',
   },
-  // A star background image (like a star shape)
+
   starBackground: {
     position: 'absolute',
     width: 79,
@@ -190,7 +182,6 @@ const styles = StyleSheet.create({
     lineHeight: 20,
   },
 
-  // The "Beige card"
   statsCard: {
     width: '100%',
     minHeight: 100,
@@ -204,7 +195,6 @@ const styles = StyleSheet.create({
     marginBottom: 4,
   },
 
-  // "Where to Buy" button with black border, rounded corners
   buyButton: {
     width: 220,
     height: 50,

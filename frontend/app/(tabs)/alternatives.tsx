@@ -28,14 +28,21 @@ export default function EcoFriendlyAlternativesScreen() {
         style={styles.scrollContainer} 
         contentContainerStyle={styles.scrollContent}>
       {}
+      <TouchableOpacity
+        style={styles.backButton}
+        onPress={() => router.back()}
+      >
+        <ThemedText style={styles.backButtonText}>{'<'} Back</ThemedText>
+      </TouchableOpacity>
+
       <ThemedView style={styles.container}>
 
-        {/* PRODUCT TITLE */}
+        
         <ThemedText style={[styles.productTitle, { color: '#000'}]}>
           {productName}
         </ThemedText>
 
-        {/* PRODUCT IMAGE */}
+        
         <View style={{ width: '100%', alignItems: 'center'}}>
           <Image
             source={require('@/assets/images/eggs.png')}
@@ -43,7 +50,7 @@ export default function EcoFriendlyAlternativesScreen() {
           />
         </View>
 
-        {/* ALTERNATIVES TITLE */}
+        
         <ThemedText style={[styles.alternativesTitle, { color: '#000'}]}>
           Friendly Alternatives:
         </ThemedText>
@@ -75,7 +82,7 @@ export default function EcoFriendlyAlternativesScreen() {
               Brand 2
             </ThemedText>
             <Image
-              source={require('@/assets/images/eggs.png')} // placeholder brand image
+              source={require('@/assets/images/eggs.png')}
               style={styles.brandImage}
             />
             <ThemedText style={[styles.brandScore, { color: '#000'}]}>
@@ -94,7 +101,7 @@ export default function EcoFriendlyAlternativesScreen() {
               Brand 3
             </ThemedText>
             <Image
-              source={require('@/assets/images/eggs.png')} // placeholder brand image
+              source={require('@/assets/images/eggs.png')}
               style={styles.brandImage}
             />
             <ThemedText style={[styles.brandScore, { color: '#000'}]}>
@@ -120,12 +127,10 @@ const styles = StyleSheet.create({
     backgroundColor: '#FCE0A2',
   },
 
-  // This controls the internal layout/padding of all scroll content
   scrollContent: {
-    // Some top padding so the title doesn't jam against the status bar
     paddingTop: 80,
     paddingBottom: 30,
-    alignItems: 'center',        // horizontally center all children
+    alignItems: 'center',        
     justifyContent: 'flex-start',
   },
 
@@ -133,7 +138,7 @@ const styles = StyleSheet.create({
   container: {
     
     backgroundColor: '#FCE0A2',
-    width: '100%',  // ensure the ThemedView spans the screen width
+    width: '100%',
   },
 
   // Product Title
@@ -164,16 +169,16 @@ const styles = StyleSheet.create({
   alternativesContainer: {
     width: '100%',
     flexDirection: 'row',
-    flexWrap: 'wrap',          // allows wrapping on smaller screens
-    justifyContent: 'center',  // center the row(s)
-    marginTop: 20,             // a bit more spacing
+    flexWrap: 'wrap',          
+    justifyContent: 'center',  
+    marginTop: 20,             
   },
 
   brandBox: {
     // aspectRatio: 1,   
-    flexBasis: '50%',          // each box tries ~30% width on wide screens
-    minWidth: 200,             // ensures it's not too narrow on mobile
-    maxWidth: 400,             // optional: to prevent super-wide boxes
+    flexBasis: '50%',          
+    minWidth: 200,             
+    maxWidth: 400,             
 
     alignItems: 'center',
     justifyContent: 'flex-start',
@@ -219,5 +224,19 @@ const styles = StyleSheet.create({
   },
   viewButtonText: {
     fontWeight: '600',
+  },
+
+  backButton: {
+    position: 'absolute',
+    top: 40,
+    left: 20,
+    padding: 8,
+    zIndex: 999,
+    backgroundColor: 'rgba(0,0,0,0.1)',
+    borderRadius: 4,
+  },
+  backButtonText: {
+    fontSize: 16,
+    color: '#000',
   },
 });

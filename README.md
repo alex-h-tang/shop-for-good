@@ -1,7 +1,5 @@
 # Shop-For-Good
 
-## ronald daniel frontend prompt engineers read this
-
 ## Get started
 
 1. Install frontend dependencies

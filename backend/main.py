@@ -1,5 +1,6 @@
 import os
 from fastapi import FastAPI, Query
+from fastapi.middleware.cors import CORSMiddleware
 from supabase import create_client, Client
 from dotenv import load_dotenv
 from scraper.amazon import scrape_amazon, parse_amazon_data
@@ -10,6 +11,14 @@ from serpapi import search as search_serpapi
 load_dotenv()
 
 app = FastAPI()
+
+app.add_middleware(
+CORSMiddleware,
+allow_origins=["*"], # Allows all origins
+allow_credentials=True,
+allow_methods=["*"], # Allows all methods
+allow_headers=["*"], # Allows all headers
+)
 
 supabase_url = os.getenv("SUPABASE_URL")
 supabase_key = os.getenv("SUPABASE_KEY")
@@ -73,5 +82,3 @@ def fuzzy(keyword):
         return products.data
     else:
         return None
-
-print(get_image("hand soap"))

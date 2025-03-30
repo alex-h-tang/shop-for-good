@@ -1,54 +1,83 @@
-import { Image, StyleSheet, Platform } from 'react-native';
-
+import React, { useState } from 'react';
+import { Image, StyleSheet, Platform, TextInput, Button, FlatList, Text } from 'react-native';
 import { HelloWave } from '@/components/HelloWave';
 import ParallaxScrollView from '@/components/ParallaxScrollView';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
+import { useRouter } from 'expo-router';
 
 export default function HomeScreen() {
+  // State for the input field and the grocery list
+  const [groceryInput, setGroceryInput] = useState('');
+  const [groceries, setGroceries] = useState<string[]>([]);
+  const router = useRouter();
+
+  // Function to add an item to the grocery list
+  const addGrocery = () => {
+    if (groceryInput.trim()) {
+      setGroceries([...groceries, groceryInput.trim()]);
+      setGroceryInput('');
+    }
+  };
+
+  // Navigate to the Alternatives screen, passing the grocery list as a query parameter
+  const goToAlternatives = () => {
+    if (groceries.length > 0) {
+      router.push(
+        ("/(tabs)/actually_alt?groceries=" +
+          encodeURIComponent(JSON.stringify(groceries))) as any
+      );
+      
+    } else {
+      alert("Please add a grocery item first.");
+    }
+  };
+  
+
   return (
     <ParallaxScrollView
-      headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
+      headerBackgroundColor={{ light: '#F2C94C', dark: '#F2994A' }} // Figma Yellow-Orange colors
       headerImage={
         <Image
-          source={require('@/assets/images/partial-react-logo.png')}
+          source={require('@/assets/images/logo 3.png')}
           style={styles.reactLogo}
         />
-      }>
+      }
+    >
+      {/* Title Section */}
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">Welcome!</ThemedText>
         <HelloWave />
       </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
-        <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
-          Press{' '}
-          <ThemedText type="defaultSemiBold">
-            {Platform.select({
-              ios: 'cmd + d',
-              android: 'cmd + m',
-              web: 'F12'
-            })}
-          </ThemedText>{' '}
-          to open developer tools.
-        </ThemedText>
+
+      {/* Input Section: Minimal Duolingo-style input for groceries */}
+      <ThemedView style={styles.inputSection}>
+        <ThemedText type="subtitle">Enter Your Grocery Items</ThemedText>
+        <TextInput
+          style={styles.input}
+          placeholder="e.g., Apples, Milk, Bread"
+          placeholderTextColor="#999"
+          value={groceryInput}
+          onChangeText={setGroceryInput}
+        />
+        <Button title="Add Item" onPress={addGrocery} color="#F2994A" />
       </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 2: Explore</ThemedText>
-        <ThemedText>
-          Tap the Explore tab to learn more about what's included in this starter app.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText>
-        <ThemedText>
-          When you're ready, run{' '}
-          <ThemedText type="defaultSemiBold">npm run reset-project</ThemedText> to get a fresh{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
-          <ThemedText type="defaultSemiBold">app-example</ThemedText>.
-        </ThemedText>
+
+      {/* Grocery List Section (shown only if there are items) */}
+      {groceries.length > 0 && (
+        <ThemedView style={styles.listSection}>
+          <ThemedText type="subtitle">Your List:</ThemedText>
+          <FlatList
+            data={groceries}
+            keyExtractor={(item, index) => index.toString()}
+            renderItem={({ item }) => <Text style={styles.listItem}>{item}</Text>}
+          />
+        </ThemedView>
+      )}
+
+      {/* "Find Alternatives" Button at the bottom */}
+      <ThemedView style={styles.buttonContainer}>
+        <Button title="Find Alternatives" onPress={goToAlternatives} color="#F2994A" />
       </ThemedView>
     </ParallaxScrollView>
   );
@@ -59,10 +88,51 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     gap: 8,
+    marginHorizontal: 16,
+    marginTop: 16,
   },
-  stepContainer: {
-    gap: 8,
+  inputSection: {
+    marginHorizontal: 16,
+    marginVertical: 20,
+    backgroundColor: '#fff',
+    padding: 12,
+    borderRadius: 10,
+    borderWidth: 1,
+    borderColor: '#F2994A',
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.1,
+    shadowRadius: 4,
+    elevation: 2,
+  },
+  input: {
+    fontSize: 18,
+    color: '#333',
+    paddingVertical: 8,
     marginBottom: 8,
+  },
+  listSection: {
+    marginHorizontal: 16,
+    marginVertical: 10,
+    backgroundColor: '#fff',
+    padding: 12,
+    borderRadius: 10,
+    borderWidth: 1,
+    borderColor: '#F2994A',
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.1,
+    shadowRadius: 4,
+    elevation: 2,
+  },
+  listItem: {
+    fontSize: 16,
+    marginVertical: 4,
+    color: '#333',
+  },
+  buttonContainer: {
+    marginHorizontal: 16,
+    marginVertical: 20,
   },
   reactLogo: {
     height: 178,

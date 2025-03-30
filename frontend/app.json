@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "stocks-for-good",
-    "slug": "stocks-for-good",
+    "name": "shop-for-good",
+    "slug": "shop-for-good",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

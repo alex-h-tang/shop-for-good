@@ -1,0 +1,8 @@
+python-dotenv
+fastapi
+bs4
+supabase
+selenium
+fuzzywuzzy
+openai
+python-Levenshtein

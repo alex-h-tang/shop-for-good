@@ -4,11 +4,13 @@ import { HelloWave } from '@/components/HelloWave';
 import ParallaxScrollView from '@/components/ParallaxScrollView';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
+import { useRouter } from 'expo-router';
 
 export default function HomeScreen() {
   // State for the input field and the grocery list
   const [groceryInput, setGroceryInput] = useState('');
   const [groceries, setGroceries] = useState<string[]>([]);
+  const router = useRouter();
 
   // Function to add an item to the grocery list
   const addGrocery = () => {
@@ -18,12 +20,26 @@ export default function HomeScreen() {
     }
   };
 
+  // Navigate to the Alternatives screen, passing the grocery list as a query parameter
+  const goToAlternatives = () => {
+    if (groceries.length > 0) {
+      router.push(
+        ("/(tabs)/actually_alt?groceries=" +
+          encodeURIComponent(JSON.stringify(groceries))) as any
+      );
+      
+    } else {
+      alert("Please add a grocery item first.");
+    }
+  };
+  
+
   return (
     <ParallaxScrollView
       headerBackgroundColor={{ light: '#F2C94C', dark: '#F2994A' }} // Figma Yellow-Orange colors
       headerImage={
         <Image
-          source={require('@/assets/images/partial-react-logo.png')}
+          source={require('@/assets/images/logo 3.png')}
           style={styles.reactLogo}
         />
       }
@@ -34,7 +50,7 @@ export default function HomeScreen() {
         <HelloWave />
       </ThemedView>
 
-      {/* Input Section: Duolingo-style minimal input for groceries */}
+      {/* Input Section: Minimal Duolingo-style input for groceries */}
       <ThemedView style={styles.inputSection}>
         <ThemedText type="subtitle">Enter Your Grocery Items</ThemedText>
         <TextInput
@@ -54,12 +70,15 @@ export default function HomeScreen() {
           <FlatList
             data={groceries}
             keyExtractor={(item, index) => index.toString()}
-            renderItem={({ item }) => (
-              <Text style={styles.listItem}>{item}</Text>
-            )}
+            renderItem={({ item }) => <Text style={styles.listItem}>{item}</Text>}
           />
         </ThemedView>
       )}
+
+      {/* "Find Alternatives" Button at the bottom */}
+      <ThemedView style={styles.buttonContainer}>
+        <Button title="Find Alternatives" onPress={goToAlternatives} color="#F2994A" />
+      </ThemedView>
     </ParallaxScrollView>
   );
 }
@@ -79,7 +98,7 @@ const styles = StyleSheet.create({
     padding: 12,
     borderRadius: 10,
     borderWidth: 1,
-    borderColor: '#F2994A', // Accent color from Figma
+    borderColor: '#F2994A',
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.1,
@@ -110,6 +129,10 @@ const styles = StyleSheet.create({
     fontSize: 16,
     marginVertical: 4,
     color: '#333',
+  },
+  buttonContainer: {
+    marginHorizontal: 16,
+    marginVertical: 20,
   },
   reactLogo: {
     height: 178,

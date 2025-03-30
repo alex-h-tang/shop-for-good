@@ -22,32 +22,19 @@ PRODUCTS = [
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 
-supabase_client = supabase.create_client(SUPABASE_URL, SUPABASE_KEY)
-
 import os
 
+def process(product, client):
+    # Scrape data from Amazon and Walmart
+    amazon_data = scrape_amazon(product)
+    walmart_data = scrape_walmart(product)
 
-for product in PRODUCTS[4:5]:
-    print(product)
-    if f"{product}.json" in os.listdir():
-        print("here")
-        combined_data = json.load(open(f"{product}.json", "r"))
-    else:
-        print("not here")
-        # Scrape data from Amazon and Walmart
-        amazon_data = scrape_amazon(product)
-        walmart_data = scrape_walmart(product)
+    # Parse the scraped data
+    parsed_amazon_data = parse_amazon_data(amazon_data)
+    parsed_walmart_data = parse_walmart_data(walmart_data)
 
-        # Parse the scraped data
-        parsed_amazon_data = parse_amazon_data(amazon_data)
-        parsed_walmart_data = parse_walmart_data(walmart_data)
-
-        # Combine the data
-        combined_data = parsed_amazon_data + parsed_walmart_data
-        
-        with open(f"{product}.json", "w") as json_file:
-            json.dump(combined_data, json_file, indent=4)
-        
+    # Combine the data
+    combined_data = parsed_amazon_data + parsed_walmart_data
     
     companies = set()
 
@@ -64,10 +51,17 @@ for product in PRODUCTS[4:5]:
     
     for item in combined_data:
         item["esg"] = esgs[item['parent_company']]
+        
+    combined = [i for i in combined_data if "message" not in i["esg"]]
+
+    for i in combined:
+        i["esg"] = i["esg"][0]
+        i["search_term"] = product
+        
+    client.table("products").insert(combined).execute()
+    return combined
     
-    print(json.dumps(combined_data, indent=4))
-    
-    with open('combined_data5.json', 'w') as json_file:
-        json.dump(combined_data, json_file, indent=4)
-    
-    break
+if __name__ == "__main__":
+    supabase_client = supabase.create_client(SUPABASE_URL, SUPABASE_KEY)
+    for product in PRODUCTS:
+        process(product, supabase_client)

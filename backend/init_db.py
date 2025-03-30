@@ -35,7 +35,7 @@ def process(product, client):
 
     # Combine the data
     combined_data = parsed_amazon_data + parsed_walmart_data
-    
+        
     companies = set()
 
     for item in combined_data:
@@ -48,16 +48,17 @@ def process(product, client):
     for com in companies:
         time.sleep(1)
         esgs[com] = get_esg(com)
-    
+            
     for item in combined_data:
         item["esg"] = esgs[item['parent_company']]
         
     combined = [i for i in combined_data if "message" not in i["esg"]]
 
     for i in combined:
-        i["esg"] = i["esg"][0]
+        if type(i["esg"]) == list:
+            i["esg"] = i["esg"][0]
         i["search_term"] = product
-        
+                
     client.table("products").insert(combined).execute()
     return combined
     

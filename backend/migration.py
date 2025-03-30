@@ -10,11 +10,24 @@ import supabase
 
 combined = []
 
+PRODUCTS = [
+    "hand soap",
+    "shampoo",
+    "chocolate bar",
+    "yogurt",
+    "bottled water"
+]
 
 for i in range(1,6):
     with open(f"combined_data{i}.json", "r") as json_file:
         data = json.load(json_file)
+        
+        for j in data:
+            j["search_term"] = PRODUCTS[i-1]
+        
         combined.extend(data)
+        
+        
         
         
 combined = [i for i in combined if "message" not in i["esg"]]

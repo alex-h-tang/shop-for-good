@@ -9,7 +9,7 @@ import os
 
 import supabase
 
-companies_data = json.load(open('backend/utils/companies.json', 'r'))
+companies_data = json.load(open('utils/companies.json', 'r'))
 
 PRODUCTS = [
     "hand soap",

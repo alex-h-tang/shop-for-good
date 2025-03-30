@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import {
   View,
   Text,
@@ -8,44 +8,71 @@ import {
   ScrollView,
 } from 'react-native';
 import { useRouter, useLocalSearchParams } from 'expo-router';
+import { search } from '@/services/apiService';
+import { useFilteredData, FilteredDataProvider } from '@/context/FilterDataContext'; 
+
 
 export default function DetailsScreen() {
-  const router = useRouter(); 
-  const { brand } = useLocalSearchParams<{ brand: string }>();
+  const router = useRouter();
+  const { parent_company } = useLocalSearchParams<{ parent_company: string }>();
+  const { filteredData } = useFilteredData();
 
   // Hard-coded placeholders for demonstration
-  const brandName = 'Brand 1';
-  const price = '$25.50';
-  const esgRating = '68.70';
-  const description =
-    'Setting the bar as one of the sturdiest designs in its class, Brand 1 is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.';
-  const extendedStats = [
-    { label: 'Overall Transparency Score', value: '89.20' },
-    { label: 'Environmental Pillar Score', value: '80.62' },
-    { label: 'Social Pillar Score', value: '66.95' },
-    { label: 'Governance Pillar Score', value: '65.85' },
-    { label: 'Overall Score Global Rank', value: '1756/17154' },
-    { label: 'Overall Industry Rank', value: '28/151' },
-    { label: 'Overall Region Rank', value: '434/3509' },
-  ];
+  // const brandName = 'Brand 1';
+  // const price = '$25.50';
+  // const esgRating = '68.70';
+  // const description =
+  //   'Setting the bar as one of the sturdiest designs in its class, Brand 1 is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.';
+  // const extendedStats = [
+  //   { label: 'Overall Transparency Score', value: '89.20' },
+  //   { label: 'Environmental Pillar Score', value: '80.62' },
+  //   { label: 'Social Pillar Score', value: '66.95' },
+  //   { label: 'Governance Pillar Score', value: '65.85' },
+  //   { label: 'Overall Score Global Rank', value: '1756/17154' },
+  //   { label: 'Overall Industry Rank', value: '28/151' },
+  //   { label: 'Overall Region Rank', value: '434/3509' },
+  // ];
+
+  const [data, setData] = useState<any>(null);
+
+  useEffect(() => {
+    if (filteredData && parent_company) {
+      // Filter the data based on the parent_company
+      const brandData = filteredData.find((item: any) => item.parent_company === parent_company);
+      if (brandData) {
+        setData(brandData.esg);  // Set the data to display
+      }
+    }
+  }, [filteredData, parent_company]);
+
+  if (!data) {
+    return (
+      <View style={styles.loadingContainer}>
+        <Text>Loading...</Text>
+      </View>
+    );
+  }
+
+  // console.log(JSON.stringify(data));
 
   return (
+    <FilteredDataProvider>
     <ScrollView style={styles.container}>
 
       {/* BACK BUTTON */}
       <TouchableOpacity
         style={styles.backButton}
         onPress={() => router.push('/alternatives')}
-        // onPress={() => router.back()} // or navigation.goBack()
+      // onPress={() => router.back()} // or navigation.goBack()
       >
         <Text style={styles.backButtonText}>{'<'} Back</Text>
       </TouchableOpacity>
 
       <View style={styles.contentWrapper}>
 
-        
+
         <View style={styles.imageContainer}>
-          
+
           <Image
             source={require('@/assets/images/eggs.png')} // e.g., placeholder
             style={styles.mainImage}
@@ -56,28 +83,26 @@ export default function DetailsScreen() {
         <View style={styles.detailsContainer}>
 
           {/* Brand Name */}
-          <Text style={styles.brandName}>{brandName}</Text>
+          <Text style={styles.brandName}>{data.name}</Text>
           {/* Price */}
-          <Text style={styles.priceText}>Price: {price}</Text>
+          <Text style={styles.priceText}>Price: {data.price}</Text>
           {/* Rating Row */}
           <View style={styles.ratingRow}>
 
-            
+
             <Text style={styles.esgLabel}>Overall ESG Rating: [InputRating] </Text>
           </View>
 
-          <Text style={styles.description}>{description}</Text>
+          {/* <Text style={styles.description}>{description}</Text> */}
 
-          
           <View style={styles.statsCard}>
-            {extendedStats.map((item) => (
+            {data.esg.map((item: any) => (
               <Text style={styles.statLine} key={item.label}>
                 <Text style={{ fontWeight: 'bold' }}>{item.label}:</Text> {item.value}
               </Text>
             ))}
           </View>
 
-          
           <TouchableOpacity style={styles.buyButton}>
             <Text style={styles.buyButtonText}>Where to Buy</Text>
           </TouchableOpacity>
@@ -85,6 +110,7 @@ export default function DetailsScreen() {
       </View>
 
     </ScrollView>
+    </FilteredDataProvider>
   );
 }
 
@@ -92,6 +118,11 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
+  },
+  loadingContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
   },
 
   backButton: {
@@ -110,13 +141,13 @@ const styles = StyleSheet.create({
 
   contentWrapper: {
     flexDirection: 'row',
-    paddingTop: 100, 
+    paddingTop: 100,
     paddingHorizontal: 16,
     paddingBottom: 40,
   },
 
   imageContainer: {
-    flex: 1, 
+    flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
     padding: 8,
@@ -129,7 +160,7 @@ const styles = StyleSheet.create({
   },
 
   detailsContainer: {
-    flex: 1, 
+    flex: 1,
     paddingLeft: 16,
   },
   brandName: {

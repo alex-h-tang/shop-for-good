@@ -24,7 +24,7 @@ export default function AlternativeScreen() {
         onPress={() =>
           router.push({
             pathname: '/(tabs)/alternatives',
-            params: { product: item },
+            params: { item },
           })
         }
       >
